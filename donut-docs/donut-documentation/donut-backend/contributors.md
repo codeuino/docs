@@ -15,6 +15,3 @@
 ## Contributors
 
 This page is empty.[PreviousServer Side](server-side.md)
-
-Last updated -1
-

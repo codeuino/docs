@@ -23,13 +23,13 @@ Then you can deployed the build on http server, for complete guidance visit [htt
 
 ## Server Side installation <a id="server-side-installation"></a>
 
-### Moving to the directory <a id="moving-to-the-directory-1"></a>
+### Moving to the directory <a id="moving-to-the-directory"></a>
 
-### Installing dependencies <a id="installing-dependencies-1"></a>
+### Installing dependencies <a id="installing-dependencies"></a>
 
 If you find any issues on installation, you need to update npm on your machine.
 
-### Starting the server <a id="starting-the-server-1"></a>
+### Starting the server <a id="starting-the-server"></a>
 
 * Development Server
 * Production

@@ -8,7 +8,7 @@ description: >-
 
 ## 1. Social Platform Donut
 
-{% page-ref page="donut-docs-1/donut-documentation/" %}
+{% page-ref page="donut-docs/donut-documentation/" %}
 
 
 
