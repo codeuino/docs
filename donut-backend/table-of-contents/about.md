@@ -1,4 +1,4 @@
-# Overview
+# About
 
 Being inspired by the Cornucopia of various social hub this project has been developed taking into consideration about open source.
 
