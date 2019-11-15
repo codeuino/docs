@@ -1,6 +1,8 @@
-# Donut Backend
+---
+description: This contains documentation related to Backend part of Social Platform Donut
+---
 
-[Donut backend repository link](https://github.com/codeuino/social-platform-donut-backend/) 
+# Donut Backend
 
 ## Table of Contents
 
@@ -12,7 +14,5 @@
 
 {% page-ref page="server-side.md" %}
 
-{% page-ref page="contributors.md" %}
-
-
+{% page-ref page="contributors-guide.md" %}
 

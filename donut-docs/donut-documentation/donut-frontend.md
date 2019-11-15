@@ -1,4 +1,8 @@
+---
+description: This contains documentation related to Frontend part of Social Platform Donut
+---
+
 # Donut Frontend
 
-## [Donut backend repository link](https://github.com/codeuino/Social-Platform-Donut)
+## Table of Contents
 

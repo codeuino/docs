@@ -2,7 +2,7 @@
 
 * [Codeuino Docs](README.md)
 
-## Donut Docs <a id="donut-docs"></a>
+## Donut Docs
 
 * [Donut Documentation](donut-docs/donut-documentation/README.md)
   * [Donut Frontend](donut-docs/donut-documentation/donut-frontend.md)
