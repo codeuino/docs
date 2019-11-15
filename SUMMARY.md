@@ -1,17 +1,17 @@
 # Table of contents
 
-* [Overview](README.md)
+* [Documentation](README.md)
 
 ## Donut Backend
 
-* [Table of Contents](donut-backend/table-of-contents/README.md)
-  * [About](donut-backend/table-of-contents/about.md)
-  * [Installation](donut-backend/table-of-contents/installation.md)
-  * [Client-Side](donut-backend/table-of-contents/client-side.md)
-  * [Server Side](donut-backend/table-of-contents/server-side.md)
-  * [Contributors Guide](donut-backend/table-of-contents/contributors.md)
+* [Table of Contents](donut-backend/donut-backend-table-of-contents/README.md)
+  * [About](donut-backend/donut-backend-table-of-contents/about.md)
+  * [Installation](donut-backend/donut-backend-table-of-contents/installation.md)
+  * [Client-Side](donut-backend/donut-backend-table-of-contents/client-side.md)
+  * [Server Side](donut-backend/donut-backend-table-of-contents/server-side.md)
+  * [Contributors Guide](donut-backend/donut-backend-table-of-contents/contributors.md)
 
 ## Donut Frontend
 
-* [Table of Contents](donut-frontend/table-of-contents.md)
+* [Table of Contents](donut-frontend/donut-frontend-table-of-contents.md)
 

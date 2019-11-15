@@ -4,7 +4,7 @@ description: This contains docs related to donut backend repo.
 
 # Table of Contents
 
-#### \[Donut backend repository link\]\([https://github.com/codeuino/social-platform-donut-backend/](https://github.com/codeuino/social-platform-donut-backend/)\)
+#### - \[Donut backend repository link\]\([https://github.com/codeuino/social-platform-donut-backend/](https://github.com/codeuino/social-platform-donut-backend/)\)
 
 {% page-ref page="about.md" %}
 
