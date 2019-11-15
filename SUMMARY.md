@@ -15,3 +15,7 @@
 
 * [Table of Contents](donut-frontend/donut-frontend-table-of-contents.md)
 
+## Donut Deign Guidelines
+
+* [Table of Contents](donut-deign-guidelines/design-table-of-contents.md)
+
