@@ -1,10 +1,10 @@
 ---
 description: >-
-  This document lists down all the projects under Codeuino and there
+  This document lists down all the projects under CodeUino and there
   documentation.
 ---
 
-# Codeuino Docs
+# CodeUino Docs
 
 ## 1. Social Platform Donut
 

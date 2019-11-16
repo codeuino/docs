@@ -1,7 +1,7 @@
 # Table of contents
 
-* [About Codeuino](README.md)
-* [Codeuino Docs](codeuino-docs.md)
+* [About CodeUino](README.md)
+* [CodeUino Docs](codeuino-docs.md)
 
 ## Donut <a id="donut-docs"></a>
 
