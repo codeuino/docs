@@ -1,6 +1,6 @@
 # Table of contents
 
-* [CodeUino](README.md)
+* [About CodeUino](README.md)
 * [CodeUino Docs](codeuino-docs.md)
 * [CodeUino Design](design-guidelines/README.md)
   * [Design Workflow](design-guidelines/design-workflow.md)
