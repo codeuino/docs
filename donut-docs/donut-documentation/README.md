@@ -10,5 +10,5 @@
 
 ## Donut Design Guidelines
 
-{% page-ref page="donut-design-guidelines.md" %}
+{% page-ref page="donut-design-guidelines/" %}
 
