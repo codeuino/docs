@@ -4,7 +4,7 @@ description: >-
   documentation.
 ---
 
-# About Codeuino
+# About CodeUino
 
 ### **CodeUino**
 
