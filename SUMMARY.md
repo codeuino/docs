@@ -2,7 +2,7 @@
 
 * [CodeUino](README.md)
 * [CodeUino Docs](codeuino-docs.md)
-* [Design Guidelines](design-guidelines/README.md)
+* [CodeUino Design](design-guidelines/README.md)
   * [Design Workflow](design-guidelines/design-workflow.md)
   * [Contributing to Design](design-guidelines/contributing-to-design.md)
 
