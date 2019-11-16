@@ -10,3 +10,9 @@ description: >-
 
 {% page-ref page="donut-docs/donut-documentation/" %}
 
+## 2. Codebadge
+
+{% page-ref page="codebadge/codebadge-documentation/" %}
+
+
+

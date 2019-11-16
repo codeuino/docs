@@ -14,3 +14,9 @@
     * [Contributors Guide](donut-docs/donut-documentation/donut-backend/contributors-guide.md)
   * [Donut Design Guidelines](donut-docs/donut-documentation/donut-design-guidelines.md)
 
+## Codebadge
+
+* [Codebadge Documentation](codebadge/codebadge-documentation/README.md)
+  * [Codebadge Frontend](codebadge/codebadge-documentation/codebadge-frontend.md)
+  * [Codebadge Backend](codebadge/codebadge-documentation/codebadge-backend.md)
+
