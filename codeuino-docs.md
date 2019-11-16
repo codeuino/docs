@@ -14,5 +14,3 @@ description: >-
 
 {% page-ref page="codebadge/codebadge-documentation/" %}
 
-
-

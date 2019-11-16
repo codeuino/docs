@@ -1,7 +1,10 @@
 # Table of contents
 
-* [About CodeUino](README.md)
+* [CodeUino](README.md)
 * [CodeUino Docs](codeuino-docs.md)
+* [Design Guidelines](design-guidelines/README.md)
+  * [Design Workflow](design-guidelines/design-workflow.md)
+  * [Contributing to Design](design-guidelines/contributing-to-design.md)
 
 ## Donut <a id="donut-docs"></a>
 
@@ -13,9 +16,7 @@
     * [Client-Side](donut-docs/donut-documentation/donut-backend/client-side.md)
     * [Server Side](donut-docs/donut-documentation/donut-backend/server-side.md)
     * [Contributors Guide](donut-docs/donut-documentation/donut-backend/contributors-guide.md)
-  * [Donut Design Guidelines](donut-docs/donut-documentation/donut-design-guidelines/README.md)
-    * [Design Workflow](donut-docs/donut-documentation/donut-design-guidelines/design-workflow.md)
-    * [Contribute to Design](donut-docs/donut-documentation/donut-design-guidelines/contribute-to-design.md)
+  * [Donut Design Guidelines](donut-docs/donut-documentation/donut-design-guidelines.md)
 
 ## Codebadge
 

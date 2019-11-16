@@ -1,4 +1,4 @@
-# Contribute to Design
+# Contributing to Design
 
 ### Things you need to know
 

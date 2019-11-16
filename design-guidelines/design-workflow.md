@@ -15,9 +15,7 @@ We follow a 4-query procedure to solve the design issues. Each question is a ste
 
 To increase the productivity, we follow sprint cycles which roughly are for 10-15 days. Everything from Ideating, designing, prototyping and re-iterating come under each sprint.
 
-![](../../../.gitbook/assets/assets_-lsv46f7uzuvdedvews0_-ltflz2mqkow25nhe1al_-ltfm3no_hb7me2lxeku_artboard-1.jpg)
-
-
+![](../.gitbook/assets/assets_-lsv46f7uzuvdedvews0_-ltflz2mqkow25nhe1al_-ltfm3no_hb7me2lxeku_artboard-1.jpg)
 
 ### Why Sprints?
 
