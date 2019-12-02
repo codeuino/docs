@@ -13,7 +13,7 @@ We follow a 4-query procedure to solve the design issues. Each question is a ste
 
 ### Sprints
 
-To increase the productivity, we follow sprint cycles which roughly are for 10-15 days. Everything from Ideating, designing, prototyping and re-iterating come under each sprint.
+To increase productivity, we follow sprint cycles which roughly are for 10-15 days. Everything from Ideating, designing, prototyping and re-iterating come under each sprint.
 
 ![](../.gitbook/assets/assets_-lsv46f7uzuvdedvews0_-ltflz2mqkow25nhe1al_-ltfm3no_hb7me2lxeku_artboard-1.jpg)
 
@@ -21,8 +21,8 @@ To increase the productivity, we follow sprint cycles which roughly are for 10-1
 
 There are several reasons why we have implemented sprints in our design system.
 
-* Time constraint boosts creativity and forces you to make product decisions quickly thereby increasing our productivity. 
+* Time constraint boosts creativity and forces you to make product decisions quickly, thereby increasing our productivity. 
 * Team alignment. Having the whole team work closely together on the same goal and with the same information is intensely uniting. 
-* To get a better idea of the problem and a larger view on the overall product. 
+* To get a better idea of the problem and a broader view of the overall product. 
 * Prototyping frees you from the traditional time and money constraints of building a product to test it.
 

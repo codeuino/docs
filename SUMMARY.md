@@ -16,7 +16,8 @@
     * [Client-Side](donut-docs/donut-documentation/donut-backend/client-side.md)
     * [Server Side](donut-docs/donut-documentation/donut-backend/server-side.md)
     * [Contributors Guide](donut-docs/donut-documentation/donut-backend/contributors-guide.md)
-  * [Donut Design Guidelines](donut-docs/donut-documentation/donut-design-guidelines.md)
+  * [Donut Design Guidelines](donut-docs/donut-documentation/donut-design-guidelines/README.md)
+    * [Brand Visual Guide](donut-docs/donut-documentation/donut-design-guidelines/brand-visual-guide.md)
 
 ## Codebadge
 
