@@ -1,7 +1,5 @@
 # Brand Visual Guide
 
-### 
-
 ### Introduction
 
 This document will guide you through the basic visual communications developed for the Donut platform's brand identity. It serves as a collection of visual components and rules to convey a range of expressions.
