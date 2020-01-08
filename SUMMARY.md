@@ -28,4 +28,5 @@
 * [Google-Summer-Of-Code-2020](untitled.md)
 * [Google-Summer-Of-Code-2019](google-summer-of-code-2020/README.md)
   * [GSOC-2019-Ideas](google-summer-of-code-2020/gsoc-2019-ideas.md)
+* [GSOC Student-Application-Template](gsoc-student-application-template.md)
 
