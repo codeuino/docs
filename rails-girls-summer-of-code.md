@@ -67,17 +67,13 @@ If you are a student, you can start exploring project ideas towards the RGSoC ap
 
 ## **Involving as a Mentor**
 
-Potential mentors are invited to assign themselves on the projects they want to mentor this summer under Codeuino community.
+Potential mentors are invited to assign themselves on the projects they want to mentor this summer under Codeuino community. The person who is willing to mentor takes up the project within the community and propose it under RGSOC on the basis of involvement and prior knowledge of it.
 
 Mentoring takes about 5 to 6 hours of work per week \(more at the start, less at the end\). In return, a student works on your project full time for 3 months. Think about the projects that you’ve always wanted to do but could not find the time.
 
-Consider proposing your own ideas that match the community project style.
+**Consider proposing your own ideas as well that match the community project style**.
 
-Make sure you get through the followings:
-
-* Have read [**Mentoring Guide**](https://google.github.io/gsocguides/mentor/)
-* Have read [**Mentors responsibilities**](https://developers.google.com/open-source/gsoc/help/responsibilities#mentors_responsibilities)
-* [**Assigned projects**](https://github.com/codeuino/GSOC/wiki/GSOC-2019-Ideas)
+Make sure you get through the **"**[**Mentor Guide**](https://railsgirlssummerofcode.org/guide/projects/)**"**
 
 ### Expectations from a mentor
 
@@ -88,4 +84,6 @@ Make sure you get through the followings:
 5. **Ensure your Student is Active.** They should have a good community involvement and good discussions. Should be answerable wherever they are tagged.
 6.  **Reach out to the Summer of Code organization administrators** if you have questions or concerns.
 7. **Do weekly meeting with students and give weekly report to Organization Admins.**
+
+## Project Ideas
 
