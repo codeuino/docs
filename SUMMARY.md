@@ -24,7 +24,6 @@
 * [Codebadge Documentation](codebadge/codebadge-documentation/README.md)
   * [Codebadge Frontend](codebadge/codebadge-documentation/codebadge-frontend.md)
   * [Codebadge Backend](codebadge/codebadge-documentation/codebadge-backend.md)
-* [Activities](activities.md)
 * [Google-Summer-Of-Code-2020](untitled.md)
 * [Google-Summer-Of-Code-2019](google-summer-of-code-2020/README.md)
   * [GSOC-2019-Ideas](google-summer-of-code-2020/gsoc-2019-ideas.md)
