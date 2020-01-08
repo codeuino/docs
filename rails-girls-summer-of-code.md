@@ -20,7 +20,7 @@ The projects under renowned organisation gets listed separtely on the [**RGSoC P
 
 The Organisation administrators for RGSoC 2020 are [Jaskirat Singh](https://twitter.com/jaskirat626) followed by co-organisation administrator Ayush
 
-* **Email:** [**Jaskirat SIngh**](mailto:juskirat2000@gmail.com) and Ayush
+* **Email:** Ayush and Jaskirat
 
   Students and Mentors can join these discussion portals in order to carry discussions about their projects and interaction within community. 
 
