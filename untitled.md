@@ -1,10 +1,10 @@
 ---
-description: Description about Codeuino's Involvement in the GSOC'19
+description: Description about Codeuino's Involvement in the GSOC'20
 ---
 
-# Google-Summer-Of-Code-2019
+# Google-Summer-Of-Code-2020
 
-## **Welcome to the Google Summer of Code 2019**
+## **Welcome to the Google Summer of Code 2020**
 
 [**Google Summer of Code**](https://summerofcode.withgoogle.com) is a global program which encourages university students aged 18 or over to participate with open source projects during their summer vacations from schools and gain exposure to real-world software development scenarios and the opportunity for employment in areas related to their academic pursuits by drilling up their skills.
 
@@ -12,7 +12,7 @@ Google awards stipends, to all successful students who complete their free and o
 
 To learn more about this year's event and how GSoC works, please refer to the [**Frequently Asked Question \(FAQ\)**](https://developers.google.com/open-source/gsoc/faq).
 
-**We had applied to Google Summer of Code 2019, accepted organizations were announced on February 26. Though we could not make to it as an independent organisation but was able to participate as a sub organisation under "**[**JBOSS Community**](https://developer.jboss.org/wiki/GSoC2019Ideas#jive_content_id_Category_Codeuino)**" where they vouched for us.** 
+**We are glad to apply to Google Summer of Code 2020 as a mentoring organisation, accepted organizations will be announced on February 20. In the meanwhile feel free to move around and connect with the community.**
 
 **We had many** [**project ideas**](https://developer.jboss.org/wiki/GSoC2019Ideas#jive_content_id_Category_Codeuino) **posted, and we welcome potential students and mentors to reach out to us for further involvement.**
 
@@ -26,11 +26,11 @@ The community is a group of young open source contributors creatively leveraging
 
 If you are looking for a project which incorporates structured data and social networking medias then check out our [**project ideas page**](https://developer.jboss.org/wiki/GSoC2019Ideas#jive_content_id_Category_Codeuino) we had in 2019 and contact us though any communication channel described here.
 
-## Selected Project Ideas for GSOC 2019
+## Selected Project Ideas for GSOC 2020
 
 | Project Name | Selected Student | Blog | Mentors |
 | :--- | :--- | :--- | :--- |
-| [Development of modules with new UI/UX](https://summerofcode.withgoogle.com/archive/2019/projects/6567045829754880/) | [Lakshya Khera](https://github.com/lakshyabatman) | [https://lakshyakhera.wordpress.com/category/gsoc/](https://lakshyakhera.wordpress.com/category/gsoc/) | [Jaskirat Singh](https://twitter.com/jaskirat626), [Devesh Verma](https://twitter.com/devesh__verma), [Vaibhav Aren](https://github.com/vaibhavdaren), [Uphaar Dubey](https://www.linkedin.com/in/capedcrusder23/?originalSubdomain=in) |
+|  |  |  |  |
 
 ## **Get in Touch with us**
 
@@ -41,7 +41,6 @@ This was our first-time participation in [GSOC 2019](https://summerofcode.withgo
   Students and Mentors can join these discussion portals in order to carry discussions about their projects and interaction within community. 
 
 * **SLACK Discussion platform:** [**Join to interact with community!**](http://slack.codeuino.org)
-* **IRC channel:** [**\#codeuino on freenode**](http//irc.freenode.net/codeuino) 
 * **Contact Email:** [gsoc@codeuino.org](mailto:gsoc@codeuino.org)
 
 ## **Involving as a Student**
