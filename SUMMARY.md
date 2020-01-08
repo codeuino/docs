@@ -29,3 +29,5 @@
   * [GSOC-2019-Ideas](google-summer-of-code-2020/gsoc-2019-ideas.md)
 * [GSOC Student-Application-Template](gsoc-student-application-template.md)
 
+## ACTIVITIES
+
