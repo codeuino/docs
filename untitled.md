@@ -26,6 +26,12 @@ The community is a group of young open source contributors creatively leveraging
 
 If you are looking for a project which incorporates structured data and social networking medias then check out our [**project ideas page**](https://developer.jboss.org/wiki/GSoC2019Ideas#jive_content_id_Category_Codeuino) we had in 2019 and contact us though any communication channel described here.
 
+## Selected Project Ideas for GSOC 2019
+
+| Project Name | Selected Student | Blog | Mentors |
+| :--- | :--- | :--- | :--- |
+| [Development of modules with new UI/UX](https://summerofcode.withgoogle.com/archive/2019/projects/6567045829754880/) | [Lakshya Khera](https://github.com/lakshyabatman) | [https://lakshyakhera.wordpress.com/category/gsoc/](https://lakshyakhera.wordpress.com/category/gsoc/) | [Jaskirat Singh](https://twitter.com/jaskirat626), [Devesh Verma](https://twitter.com/devesh__verma), [Vaibhav Aren](https://github.com/vaibhavdaren), [Uphaar Dubey](https://www.linkedin.com/in/capedcrusder23/?originalSubdomain=in) |
+
 ## **Get in Touch with us**
 
 This was our first-time participation in [GSOC 2019](https://summerofcode.withgoogle.com/archive/2019/projects/6567045829754880/) and the Organisation administrator were [Jaskirat Singh](https://twitter.com/jaskirat626) followed by co-organisation administrator [Devesh Verma](https://twitter.com/devesh__verma)
@@ -40,17 +46,39 @@ This was our first-time participation in [GSOC 2019](https://summerofcode.withgo
 
 ## **Involving as a Student**
 
+### Before Being Accepted
+
 If you are a student, you can start exploring project ideas towards the GSoC application phase. Each project contains contacts to reach out to potential mentors, and many projects have also been listed with some ongoing issues. Students are requested to get involved with the community in order to carry with projects.
 
-If you're an aspiring student for GSOC 2019 with Codeuino have a look at the following:
+1. **Become familiar with Codeuino Community** and the project\(s\) for which you're applying.  Read the [Get Involved Guide](http://codeuino.org/getInvolved.html) and ask others in the community if you have questions. If you [ask questions the smart way](http://www.catb.org/~esr/faqs/smart-questions.html), you'll get better responses.
+2. **Make sure your development environment is installed and running,** and optimized for maximum efficiency.
+3. **Review project ideas listed here & ask questions** about those or other projects in the here
+4. **Spend as much time as possible** in our [SLACK](http://codeuino.slack.com) channel. Here is the [link to join the communication channel](http://slack.codeuino.org).
+5. **Introduce yourself** within the community.
+6. Run, Test and identity some potential issues in [Codeuino Github Repositories](https://github.com/codeuino)
+7. **Increase your visibility by suggesting ideas**  Suggest new ideas and participate in to other's discussions as much as possible in order to have a fruitful outcome.
+8. **Get Knowledge about GSOC** by understanding it and reading about it on [Wikipedia ](https://en.wikipedia.org/wiki/Google_Summer_of_Code)and getting through [GSOC Student Manual](https://google.github.io/gsocguides/student/)
 
-* [**Learn about GSOC**](https://en.wikipedia.org/wiki/Google_Summer_of_Code)
-* [**GSOC 2019 project ideas**](https://github.com/codeuino/GSOC/wiki/GSOC-2019-Ideas)
-* Go through the [**GSOC Manual**](https://google.github.io/gsocguides/student/) by Google
-* **\[\[GSOC 2019 Student Application Template\]\]**
-* **Interaction with Community by ''Introducing Yourself''**
+#### **NOTE: Students can also** [**propose their own ideas**](https://github.com/codeuino/GSOC/wiki/GSOC-2019-Ideas) **that they want to include within the community**
 
-Students can also [**propose their own ideas**](https://github.com/codeuino/GSOC/wiki/GSOC-2019-Ideas) that they want to include within the community
+### After Being Accepted 
+
+1. **Set up a blog** for your work on open source projects, including GSoC. If you don't have a blog yet, you should create one. **You will be required to write a blog post every week about your planning work and project progress during GSoC. This will be "Progress Report".**
+2. **Contact your mentor immediately.** Make a plan to communicate with them regularly.  You would be required to communicate publicly within the \#GSOC channel inside the SLACK unless something is private.
+3. **Prepare a detailed project plan** together with your mentor. This will include setting up milestones for every week.
+4. **Prepare mid-term & final project presentation videos** about your project's status, progress, and any questions you have for the community.
+
+   You will asked to submit it through google drive which can be published from **"**[**Codeuino YouTube Channel**](https://www.youtube.com/channel/UCmC2EOPv_oyJIevTyzlZTDQ)**"** 
+
+5. **Attend weekly meetings with potential mentors** explaining them your work in every week through Google Hangouts.
+
+### After Completion of GSOC
+
+1. **Write a final blog post** summarizing your overall experience! If you like, talk to the org admins for consideration to cross-post this article to the Google Open Source Blog.
+2. **Stay involved with your project** or other projects as your schedule permits! There is always plenty of development work needed.
+3. **Continue to be involved with Codeuino Community** for additional questions or feedback about your GSoC project, and for other topics that interest you.
+4. **Present your project in events, Conferemnces and other related meetups.**
+5. **Participate as a mentor/Volunteer for Rail Girl Summer of Code, Google Summer of Code, Google Code-in,** and other related programs.
 
 ## **Involving as a Mentor**
 
@@ -66,11 +94,17 @@ Make sure you get through the followings:
 * Have read [**Mentors responsibilities**](https://developers.google.com/open-source/gsoc/help/responsibilities#mentors_responsibilities)
 * [**Assigned projects**](https://github.com/codeuino/GSOC/wiki/GSOC-2019-Ideas)
 
-## Selected Project Ideas for GSOC 2019
+### Expectations from a mentor
 
-| Project Name | Selected Student | Blog | Mentors |
-| :--- | :--- | :--- | :--- |
-| [Development of modules with new UI/UX](https://summerofcode.withgoogle.com/archive/2019/projects/6567045829754880/) | [Lakshya Khera](https://github.com/lakshyabatman) | [https://lakshyakhera.wordpress.com/category/gsoc/](https://lakshyakhera.wordpress.com/category/gsoc/) | [Jaskirat Singh](https://twitter.com/jaskirat626), [Devesh Verma](https://twitter.com/devesh__verma), [Vaibhav Aren](https://github.com/vaibhavdaren), [Uphaar Dubey](https://www.linkedin.com/in/capedcrusder23/?originalSubdomain=in) |
+1. **Commit to spending a minimum of 4 hours each week** to be available to guide and mentor students \(not just your assigned student\).
+2. **Commit to being present** in SLACK to help answer questions as much as your schedule allows, at a minimum of 4 hours each week.
+3. **Prepare a good overview of your project** idea\(s\)
+4. **Review student proposals** and work with other mentors and organization admins to select the best candidates for Codeuino.
+5. **Ensure your Student is Active.** They should have a good community involvement and good discussions. Should be answerable wherever they are tagged.
+6.  **Reach out to the Summer of Code organization administrators** if you have questions or concerns.
+7. **Do weekly meeting with students and give weekly report to Organization Admins.**
+
+
 
 
 
