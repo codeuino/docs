@@ -14,7 +14,7 @@ To learn more about this year's event and how GSoC works, please refer to the [*
 
 **We are glad to apply to Google Summer of Code 2020 as a mentoring organisation, accepted organizations will be announced on February 20. In the meanwhile feel free to move around and connect with the community.**
 
-**We have many** [**project ideas**](https://developer.jboss.org/wiki/GSoC2019Ideas#jive_content_id_Category_Codeuino) **posted, and we welcome potential students and mentors to reach out to us for further involvement.**
+**We had many** [**project ideas**](https://developer.jboss.org/wiki/GSoC2019Ideas#jive_content_id_Category_Codeuino) **posted, and we welcome potential students and mentors to reach out to us for further involvement.**
 
 ## **About Codeuino**
 
@@ -34,9 +34,7 @@ If you are looking for a project which incorporates structured data and social n
 
 ## **Get in Touch with us**
 
-This is our first-time participation in GSOC 2020 as an **"Independent Orgnisation" but we have been a part of GSOC 2019 as a sub organisation where "JBoss Community" vouched for us.** 
-
-The Organisation administrators for GSOC 2020 are [Jaskirat Singh](https://twitter.com/jaskirat626) followed by co-organisation administrator [Devesh Verma](https://twitter.com/devesh__verma)
+This was our first-time participation in [GSOC 2019](https://summerofcode.withgoogle.com/archive/2019/projects/6567045829754880/) and the Organisation administrator were [Jaskirat Singh](https://twitter.com/jaskirat626) followed by co-organisation administrator [Devesh Verma](https://twitter.com/devesh__verma)
 
 * **Email:** [**Jaskirat SIngh**](mailto:juskirat2000@gmail.com) and [**Devesh Verma**](mailto:deveshverma619@gmail.com)
 
