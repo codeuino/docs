@@ -1,3 +1,7 @@
+---
+description: This contains all the proposed ideas for GSOC'19
+---
+
 # GSOC-2019-Ideas
 
 **Welcome to our Google Summer Of Code 2019 ideas page. As a student, you are welcome to pick any of the ideas listed below and start early in the community bonding process as well as learning a bit about our code if we get selected as a mentoring organization. And of course, we'd love you to stay around even if we are not invited to GSoC or if we cannot invite you as a student.**
