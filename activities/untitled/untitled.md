@@ -36,6 +36,22 @@ Development of configuration mechanism is one of our newest additions to our ins
 * **Screen 5:** This screen includes **View** are from User end that how the Admins want their platform to look like. This will have custom things like Theme Selection, Community Top bar \( Including Logos\), home page look, some other modules. **\(Important Part !\)**
 * **Screen 6:** Includes the Thumbnail or the preview of the main page based upon the settings configured by Admin.
 
+2.  Development of Admin panel
+
+This will include building of Admin panel or dashboard which will be visble to them after configuring the Donut Platform on their server.
+
+* Admins can add members to the community.
+  * Blocking users \( Giving access to block people\)
+  * Analytical representation \(This will help community view stat for their posts which can be shown through popularity/most viewed,etc \)
+  * Contribution on various projects by making the APIs and integrating with the Github.
+  * Project/Articles/blogs and other feeds posted by community
+  * Comments made by people on any community post
+  * Profile with all details \(Giving access to delete any post\)
+  * Allowing to give them access for the "settings" of the community
+  * Activity logs \( This feature will describe about followings, comments, Upvote/Downvote, stare, pinned things\( posts/projects/events/etc\)
+
+
+
 
 
 
