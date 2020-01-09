@@ -12,8 +12,6 @@ To learn more about this year's event and how RGSoC works, please refer to the [
 
 **We are glad to apply to Rails Girls Summer of Code 2020 as a mentoring organisation, where we gonna have separate projects listed by potential mentors in** [**RGSOC App**](https://teams.railsgirlssummerofcode.org/projects)**. In the meanwhile feel free to move around and connect with the community.**
 
-### 
-
 ## **Get in Touch with us**
 
 The projects under renowned organisation gets listed separtely on the [**RGSoC Project App**](https://teams.railsgirlssummerofcode.org/projects)**. People who wants to mentor project pickups from the project Ideas page and list them up on the RGSOC website as an independent project.**
@@ -22,14 +20,14 @@ The Organisation administrators for RGSoC 2020 are [Jaskirat Singh](https://twit
 
 * **Email:** Ayush and Jaskirat
 
-  Students and Mentors can join these discussion portals in order to carry discussions about their projects and interaction within community. 
+  Students and Mentors can join these discussion portals in order to carry discussions about their projects and interaction within community.
 
 * **SLACK Discussion platform:** [**Join to interact with community!**](http://slack.codeuino.org)
 * **Contact Email:** [rgsoc@codeuino.org ](mailto:rgsoc@codeuino.org)
 
 ## **Involving as a Student under Codeuino**
 
- **Create your application at** [**https://teams.railsgirlssummerofcode.org/apply**](https://teams.railsgirlssummerofcode.org/apply)\*\*\*\*
+**Create your application at** [**https://teams.railsgirlssummerofcode.org/apply**](https://teams.railsgirlssummerofcode.org/apply)\*\*\*\*
 
 ### Before Being Accepted
 
@@ -46,14 +44,14 @@ If you are a student, you can start exploring project ideas towards the RGSoC ap
 
 #### **NOTE: Students can also propose their own ideas that they want to include within the community**
 
-### After Being Accepted 
+### After Being Accepted
 
 1. **Set up a blog** for your work on open source projects, including RGSoC. If you don't have a blog yet, you should create one. **You will be required to write a blog post every week about your planning work and project progress during RGSoC. This will be "Progress Report".**
 2. **Contact your mentor immediately.** Make a plan to communicate with them regularly.  You would be required to communicate publicly within the \#RGSOC channel inside the SLACK unless something is private.
 3. **Prepare a detailed project plan** together with your mentor. This will include setting up milestones for every week.
 4. **Prepare mid-term & final project presentation videos** about your project's status, progress, and any questions you have for the community.
 
-   You will asked to submit it through google drive which can be published from **"**[**Codeuino YouTube Channel**](https://www.youtube.com/channel/UCmC2EOPv_oyJIevTyzlZTDQ)**"** 
+   You will asked to submit it through google drive which can be published from **"**[**Codeuino YouTube Channel**](https://www.youtube.com/channel/UCmC2EOPv_oyJIevTyzlZTDQ)**"**
 
 5. **Attend weekly meetings with potential mentors** explaining them your work in every week through Google Hangouts.
 
@@ -82,66 +80,47 @@ Make sure you get through the **"**[**Mentor Guide**](https://railsgirlssummerof
 3. **Prepare a good overview of your project** idea\(s\)
 4. **Review student proposals** and work with other mentors and organization admins to select the best candidates for Codeuino.
 5. **Ensure your Student is Active.** They should have a good community involvement and good discussions. Should be answerable wherever they are tagged.
-6.  **Reach out to the Summer of Code organization administrators** if you have questions or concerns.
+6. **Reach out to the Summer of Code organization administrators** if you have questions or concerns.
 7. **Do weekly meeting with students and give weekly report to Organization Admins.**
 
 ## Project Ideas
 
 ### Project description
-Codeuino is an open source social networking organisation that tends to work for building social environments for communities, allowing them to use in their custom way. Codebadge stands out as one of the community run project which aims to support contributors with badges and allowing Community admins/moderators to use it in their custom way for every contributor involved through their contribution in the organizations. We are
-developing a FOSS tool that allows ones to create badges and integrate them with their forums which is based on github commits. It has got more enhanced features which allow them with analytics, drafting, allotment and many more.
 
-We are designing admin dashboard through which he/she can set the criterias for badge allotment, and analyse the project progress and allot issues on the basis of past contributions. We are also willing to enhance our Codebadge illustrator by adding new funtionalities.
+Codeuino is an open source social networking organisation that tends to work for building social environments for communities, allowing them to use in their custom way. Codebadge stands out as one of the community run project which aims to support contributors with badges and allowing Community admins/moderators to use it in their custom way for every contributor involved through their contribution in the organizations. We are developing a FOSS tool that allows ones to create badges and integrate them with their forums which is based on github commits. It has got more enhanced features which allow them with analytics, drafting, allotment and many more.
+
+We are designing admin dashboard through which he/she can set the criterias for badge allotment, and analyse the project progress and allot issues on the basis of past contributions. We are also willing to enhance our Codebadge illustrator by adding new functionalities.
 
 The coaches who will be helping you out remotely are:-
+
 * [Jaskirat Singh](https://github.com/jaskirat2000)
 * [Ayush Nagar](https://github.com/ayushnagar123)
 
 ### Project's Requirements
-Students shall have knowledge of:-
-Creating and Working with github APIs
-Creating restful apis in flask api for illustrator for machine learning features.
-Html canvas, vuejs, css, javascript for ui designing.
+
+Students shall have knowledge of:- Creating and Working with github APIs Creating restful apis in flask api for illustrator for machine learning features. Html canvas, vuejs, css, javascript for ui designing.
+
 ### Task and Features
-This project includes working on various tasks such as development of Organisation Admin dashboard and UI builder (Illustrator) 
+
+This project includes working on various tasks such as development of Organisation Admin dashboard and UI builder \(Illustrator\)
 
 **1. Organisation Admin's panel:-**
 
-● Search by username, his contributions in the community.
+* Search by username, his contributions in the community.
+* Searching on the basis of project all contributors on the basis of project.
+* Displaying analytics such as charts of progress of each projects and other related things.
+* Displaying chart of contributions by an organization member.
+* Displaying tech stack and issue type he has contributed to\(such as designing,enhancement, bug solving\)
+* Suggesting issues assignment to contributor on the basis of past experience.\(7-8 days\)
 
-● Searching on the basis of project all contributors on the basis of
-project.
+**2. Illustrator:-** This tool involves visual editor or we could say visual UI builder with just drag and drop inside the dashboard.
 
-● Displaying analytics such as charts of progress of each projects and other related things.
-
-● Displaying chart of contributions by an organization member.
-
-● Displaying tech stack and issue type he has contributed to(such as
-designing,enhancement, bug solving)
-
-● Suggesting issues assignment to contributer on the basis of past
-experience.(7-8 days)
-
-**2. Illustrator:-** 
-This tool involves visual editor or we could say visual UI builder with just drag and drop inside the dashboard.
-
-● Displaying image on html canvas.
-
-● Move tool with js.
-
-● Resize image on drag with js.
-
-● Quick Selection tool using js and Python.
-
-● Puppet wrap using js and Python.
-
-● Layers using js and Flask.
-
-● Pick tool using Python.
-
-● Pen tool using js
-
-Also addition to these.
-
-
+* Displaying image on html canvas.
+* Move tool with js.
+*  Resize image on drag with js.
+* Quick Selection tool using js and Python.
+* Puppet wrap using js and Python.
+* Layers using js and Flask.
+* Pick tool using Python.
+* Pen tool using js
 
