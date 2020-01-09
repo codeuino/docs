@@ -28,13 +28,11 @@ If you are looking for a project which incorporates structured data and social n
 
 This was our first-time participation in [GSOC 2019](https://summerofcode.withgoogle.com/archive/2019/projects/6567045829754880/) and the Organisation administrator were [Jaskirat Singh](https://twitter.com/jaskirat626) followed by co-organisation administrator [Devesh Verma](https://twitter.com/devesh__verma)​
 
-* **Email:** [**Jaskirat SIngh**](mailto:juskirat2000@gmail.com) and [**Devesh Verma**](mailto:deveshverma619@gmail.com)
+* **Email:** [**Jaskirat SIngh**](mailto:juskirat2000@gmail.com) and [**Devesh Verma**](mailto:deveshverma619@gmail.com)​
 
-  Students and Mentors can join these discussion portals in order to carry discussions about their projects and interaction within community. 
+  Students and Mentors can join these discussion portals in order to carry discussions about their projects and interaction within community.
 
-* **SLACK Discussion platform:** [**Join to interact with community!**](http://slack.codeuino.org)\*\*\*\*
-* **Contact Email:** [gsoc@codeuino.or](mailto:gsoc@codeuino.org)
-
+* * * 
 ## **Involving as a Student** <a id="involving-as-a-student"></a>
 
 ### Before Being Accepted <a id="before-being-accepted"></a>

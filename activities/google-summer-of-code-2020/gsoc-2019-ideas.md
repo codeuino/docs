@@ -37,6 +37,9 @@ Developing configuration mechanism is one of our newest additions to our install
 
 **These modules should be developed with appropriate User Interface\(i.e. front-end part\) as well as back-end code with better User Experience.** [**Know more about Donut here**](http://www.codeuino.org/projects.html)​
 
+**References:**
+
+* * * * 
 **Required Skills/Knowledge:**
 
 * Good knowledge of Modules with packaging
@@ -100,6 +103,9 @@ Following are the basic feature which should be supported by the analytics modul
 * Converting analytics report in PDF or CSV format
 * Prior experience of NLP and semantic analysis will be an added advantage
 
+**References:**
+
+* * * * * 
 **Required Skills/Knowledge:**
 
 * Good knowledge of Modules with packaging
@@ -163,6 +169,9 @@ The other part of this project is to integrate other social handles like **"**[*
 
 Initial dashboard code can be seen [**here**](https://github.com/codeuino/frontened/blob/master/User-dashboard.html)​
 
+**References:**
+
+* * * * * * 
 **Required Skills/Knowledge:**
 
 * Good knowledge of databases
@@ -206,6 +215,9 @@ Following are the things that an integrated Task Management tool should have:
 
 **Note:** This project can be achieved by integration of task managment tools from [**Github**](https://help.github.com/articles/about-project-boards/)**,** [**Trello**](https://trello.com/) and other tools that can result in same outcome.
 
+**Reference:**
+
+* * * 
 **Required Skills/Knowledge:**
 
 * Good knowledge of Integration
@@ -245,6 +257,9 @@ Following the basic feature which should be supported by the chat platform:
 * Video communication platforms should also be integrated as an additional feature for effective team meetings.
 * The efficient way to handle the large traffic in case of video communication
 
+Some of the widely used chat platforms \(textual\) which need to be integrated are as follows :
+
+* * * * * 
 **Note:** The above-mentioned communication platforms are just the examples and any new platforms can also be added and integrated
 
 **Required Knowledge:**
@@ -257,6 +272,9 @@ Following the basic feature which should be supported by the chat platform:
 
 **Difficulty:** Moderate
 
+**References:**
+
+* * * 
 **Expected Outcome:**
 
 With the integration of proper communication channel, the communities should be able to communicate and coordinate any project.
