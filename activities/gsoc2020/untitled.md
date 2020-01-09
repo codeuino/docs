@@ -27,6 +27,16 @@ All tasks on this page already indicate mentors for the task. New tasks on this 
 
 Development of configuration mechanism is one of our newest additions to our installation frameworks of Donut Platform.  Currently Donut is central hosted but aims to get bundled as FOSS/OSS tool. So, the task of this major project is to develop an **Admin Management System** that will allow individuals or community admins to setup for themselves. To simplify the configuration, these predefined modules will have the most common use cases with different options for modules and settings while setting up this environment.Few have been described below which would serve essential features as a separate modules:
 
-Development of module for Configuration screens with appropriate required information:
+1. Development of module for Configuration screens 
 
-* 
+* **Screen 1:** Registering Admin account with information such as Admin name, Email, Username, Password, etc. For example check [**here**](https://www.tecmint.com/wp-content/uploads/2018/05/Create-New-Discourse-Account.png) 
+* **Screen 2:** Include Admin Account Confirmation through email. An email send to the Admin account, On confirmation should redirect them to the page of "Activate Account" which further leads to other setup.
+* **Screen 3:** Welcoming Screen, that should allow to setup Community account.  For hint check [**here**](https://support.patreon.com/hc/article_attachments/360027026912/Image_2019-04-24_at_9.25.35_AM.png)\*\*\*\*
+* **Screen 4:** Setting up Community profile and permissions like Community Name, Description,Welcoming Invites, Access \( Is community open to everyone or limited to invites,etc. \), Automated Invites, System Email setup, etc.
+* **Screen 5:** This screen includes **View** are from User end that how the Admins want their platform to look like. This will have custom things like Theme Selection, Community Top bar \( Including Logos\), home page look, some other modules. **\(Important Part !\)**
+* **Screen 6:** Includes the Thumbnail or the preview of the main page based upon the settings configured by Admin.
+
+
+
+
+
