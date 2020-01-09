@@ -27,10 +27,10 @@
 
 ## ACTIVITIES
 
-* [Google-Summer-Of-Code-2020](activities/untitled.md)
-  * [GSOC 2020 Ideas](activities/untitled/untitled.md)
+* [Google-Summer-Of-Code-2020](activities/gsoc2020/README.md)
+  * [GSOC 2020 Ideas](activities/gsoc2020/untitled.md)
 * [Google-Summer-Of-Code-2019](activities/google-summer-of-code-2020/README.md)
   * [GSOC-2019-Ideas](activities/google-summer-of-code-2020/gsoc-2019-ideas.md)
 * [GSOC Student-Application-Template](activities/gsoc-student-application-template.md)
-* [Rails Girls Summer of Code](rails-girls-summer-of-code.md)
+* [Rails Girls Summer of Code](activities/rails-girls-summer-of-code.md)
 
