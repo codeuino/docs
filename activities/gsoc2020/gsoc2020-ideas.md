@@ -94,5 +94,11 @@ PART 2: Suppose that **"X"** user writes some post, so before publishing it. He 
 * languages such as NodeJs, JavaScript, React;
 * Knowledge of front-end as well for developing a tag dashboard
 
+**Difficulty Level:** Moderate
+
+**Expected Outcome:** This project would result in development of a tag mechanism with an appropriate dashboard where one can "Create/Edit/Manage/Delete" with proper settings option.
+
+**Potential Mentors:** [**Jaskirat Singh**](https://github.com/jaskirat2000) and [**Devesh Verma** ](https://github.com/devesh-verma)
+
 
 
