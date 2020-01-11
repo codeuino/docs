@@ -83,3 +83,16 @@ Now assume other user **"Y"**, suppose "Y" user is already logged into this plat
 
 PART 2: Suppose that **"X"** user writes some post, so before publishing it. He would be shown similar posts that either matches with the **"Title"** or **"Post Content"**. So clicking on any, he would be able to "Add/comment/share/Add reasons". This will help avoid replication of content as well.
 
+{% hint style="info" %}
+**References:** [**Tag module by WordPress**](https://en.support.wordpress.com/posts/tags/) **,** [**Tag Screens by WordPress**](https://en.support.wordpress.com/posts/tags/)\*\*\*\*
+{% endhint %}
+
+**Required Skills/knowledge:** 
+
+* Good knowledge of databases
+* Good Knowledge of Back-end
+* languages such as NodeJs, JavaScript, React;
+* Knowledge of front-end as well for developing a tag dashboard
+
+
+
