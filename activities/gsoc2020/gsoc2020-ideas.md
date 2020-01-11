@@ -13,7 +13,7 @@ Students can connect with the Org Admins and Mentors through various communicati
   Students and Mentors can join these discussion portals in order to carry discussions about their projects and interaction within community. 
 
 * **SLACK Discussion platform:** [**Join to interact with community!**](http://slack.codeuino.org)
-* **Community Contact Email:** [gsoc@codeuino.org](mailto:gsoc@codeuino.org)
+* **Community Contact Email:** [**gsoc@codeuino.org**](mailto:gsoc@codeuino.org)\*\*\*\*
 
 All tasks on this page already indicate mentors for the task. New tasks on this page should be added only by those with the experience and time to invest in mentoring new developers.
 
@@ -66,4 +66,20 @@ This will include building of Admin panel or dashboard which will be visible to 
 **Expected Outcome:** This project would result in formation of packaged setup of a Donut platform along side with Admin panel with new User Interface that would allow the Admins/Moderators to use it in their custom way.
 
 **Potential Mentors:** [**Jaskirat Singh**](https://github.com/jaskirat2000) and [**Devesh Verma** ](https://github.com/devesh-verma)
+
+### 2. Developing a module with a Tag Cloud with a post check mechanism
+
+**Priority:** Medium
+
+**Description:**  The [**DONUT Platform**](https://github.com/codeuino/Social-Platform-Donut) contains the notification feature which helps users to accommodate things in easy way. So the task of this project is to develop a mechanism for **"tags" \(**[**Explanation of tags in posts by WordPress**](https://en.support.wordpress.com/posts/tags/)**\)** as an independent "**Tags Cloud**"and check and sort out similar posts from user end. These tags will provide a useful way to post users related to quickly tell readers what a post is about and where to redirect or highlight the particular post more. The mechanism should be developed in such a way that users can make their own tags or can also select from predefined tags\(this needs to be built as a kind of panel/store\) which gets automatically saved at one place and can be called as tag cloud and while submitting any posts it should get redirected to the appropriate users/groups which contains the similar tags. The tag cloud needs to be built which can store all the tags. When someone viewing your blog/project/article/any other post, clicks on one of defined Tag links, a Tag archive page with all the posts belonging to that Tag, should be displayed.
+
+Other part of this project is develop a "post check" mechanism which will help the user writing the post to check from similar posts and allow to do some actions on the similar post.
+
+**Lets understands this with an example**
+
+**PART 1:** Assume that **"X"** user signs up on the DONUT platform. Once the **"X"** user has defined all the details about himself, then he would be asked to select some tags from the tags cloud which describes him the best and here, **"X"** user chooses "Designer", "Nodejs" and "Html". this tells us from the description of the tags in the tags cloud that this **"X"** user is a "Designer" and knows languages like "Nodejs" and "Html". On pursuing further these tags get stored for him.
+
+Now assume other user **"Y"**, suppose "Y" user is already logged into this platform. **"Y"** user writes a post as project/article/blog or any other thing related to feeds on it, before **he/she** publishes, he would be asked to choose some tags from the "Tags Cloud". Suppose the **"Y"** user choose "Nodejs" tag from it. **Here, we see that user "X" and "Y" has "Nodejs" common in them.** So on publishing the post by user **"Y"**, the particular project would be redirected to the **"X"**\(because they both contain common tags\), According to the tags description user **"X"** would be able to review the thing.
+
+PART 2: Suppose that **"X"** user writes some post, so before publishing it. He would be shown similar posts that either matches with the **"Title"** or **"Post Content"**. So clicking on any, he would be able to "Add/comment/share/Add reasons". This will help avoid replication of content as well.
 
