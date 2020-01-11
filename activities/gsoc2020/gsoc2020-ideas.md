@@ -23,7 +23,7 @@ All tasks on this page already indicate mentors for the task. New tasks on this 
 
 **Priority:** High
 
-**Description:**  [Donut Platform](https://github.com/codeuino/Social-Platform-Donut) is a  flexible open source **Social Network Kit that aims** to give you the customized social network, social intranet or huge social enterprise application for communities that really fits their needs.
+**Description:**  [**Donut Platform**](https://github.com/codeuino/Social-Platform-Donut) is a  flexible open source **Social Network Kit that aims** to give you the customized social network, social intranet or huge social enterprise application for communities that really fits their needs.
 
 Development of configuration mechanism is one of our newest additions to our installation frameworks of Donut Platform.  Currently Donut is central hosted but aims to get bundled as FOSS/OSS tool. So, the task of this major project is to develop an **Admin Management System** that will allow individuals or community admins to setup for themselves. To simplify the configuration, these predefined modules will have the most common use cases with different options for modules and settings while setting up this environment.Few have been described below which would serve essential features as a separate modules:
 
@@ -73,7 +73,7 @@ This will include building of Admin panel or dashboard which will be visible to 
 
 **Description:**  The [**DONUT Platform**](https://github.com/codeuino/Social-Platform-Donut) contains the notification feature which helps users to accommodate things in easy way. So the task of this project is to develop a mechanism for **"tags" \(**[**Explanation of tags in posts by WordPress**](https://en.support.wordpress.com/posts/tags/)**\)** as an independent "**Tags Cloud**"and check and sort out similar posts from user end. These tags will provide a useful way to post users related to quickly tell readers what a post is about and where to redirect or highlight the particular post more. The mechanism should be developed in such a way that users can make their own tags or can also select from predefined tags\(this needs to be built as a kind of panel/store\) which gets automatically saved at one place and can be called as tag cloud and while submitting any posts it should get redirected to the appropriate users/groups which contains the similar tags. The tag cloud needs to be built which can store all the tags. When someone viewing your blog/project/article/any other post, clicks on one of defined Tag links, a Tag archive page with all the posts belonging to that Tag, should be displayed.
 
-Other part of this project is develop a "post check" mechanism which will help the user writing the post to check from similar posts and allow to do some actions on the similar post.
+Other part of this project is develop a "**Post Check**" mechanism which will help the user writing the post to check from similar posts and allow to do some actions on the similar post.
 
 **Lets understands this with an example**
 
