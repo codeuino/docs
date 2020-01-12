@@ -75,6 +75,20 @@ This will include building of Admin panel or dashboard which will be visible to 
 
 Other part of this project is develop a "**Post Check**" mechanism which will help the user writing the post to check from similar posts and allow to do some actions on the similar post.
 
+**Tag prediction: -** In addition of the above idea, it is possible to predict the tags based on the content of the articles/posts using some ML algorithms \(Supervised Learning\). So that when user creates the post/article then he/she will have some auto-predicted tags as a suggestion along with option of adding custom tags.
+
+**Approach:-** Firstly pre-process the data \(i.e posts/articles content\) and accordingly train the ML model and after that use the classifications algorithms to predict the tags.
+
+**Understand tag-prediction with an example:**
+
+Suppose a user has created the article/post whose content is something like this:
+
+ **"**GSOC stands for Google Summer of Code, a 3 to 4-month long program for students studying in any university all across the globe. Google started this program long back in 2005 aiming to promote the open source culture among the college and university students. During this program, a student works with an open source community or organization of his/her choice for around 3 to 4 months on a project.**"** 
+
+So for the above post the predicted tag should be like: "**GSOC**", "**Open Source**", "**Google**" and it should be displayed in the **Add tag field**, so if it seems irrelevant to the user then he can remove that and add their custom tag. \( Something like this: [click](https://raw.githubusercontent.com/olahol/react-tagsinput/HEAD/example/demo.gif) \)  
+
+
+
 **Lets understands this with an example**
 
 **PART 1:** Assume that **"X"** user signs up on the DONUT platform. Once the **"X"** user has defined all the details about himself, then he would be asked to select some tags from the tags cloud which describes him the best and here, **"X"** user chooses "Designer", "Nodejs" and "Html". this tells us from the description of the tags in the tags cloud that this **"X"** user is a "Designer" and knows languages like "Nodejs" and "Html". On pursuing further these tags get stored for him.
@@ -92,6 +106,7 @@ PART 2: Suppose that **"X"** user writes some post, so before publishing it. He 
 * Good knowledge of databases
 * Good Knowledge of Back-end
 * languages such as NodeJs, JavaScript, React;
+* For tag-prediction: Python, ML, Supervised learning \(Beginners - Intermediate\)
 * Knowledge of front-end as well for developing a tag dashboard
 
 **Difficulty Level:** Moderate
