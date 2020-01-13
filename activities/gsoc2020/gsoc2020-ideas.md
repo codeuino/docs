@@ -13,7 +13,8 @@ Students can connect with the Org Admins and Mentors through various communicati
   Students and Mentors can join these discussion portals in order to carry discussions about their projects and interaction within community. 
 
 * **SLACK Discussion platform:** [**Join to interact with community!**](http://slack.codeuino.org)
-* **Community Contact Email:** [**gsoc@codeuino.org**](mailto:gsoc@codeuino.org)\*\*\*\*
+* **Community Contact Email:** [**gsoc@codeuino.org**](mailto:gsoc@codeuino.org)
+\*\*\*\*
 
 All tasks on this page already indicate mentors for the task. New tasks on this page should be added only by those with the experience and time to invest in mentoring new developers.
 
@@ -65,7 +66,7 @@ This will include building of Admin panel or dashboard which will be visible to 
 
 **Expected Outcome:** This project would result in formation of packaged setup of a Donut platform along side with Admin panel with new User Interface that would allow the Admins/Moderators to use it in their custom way.
 
-**Potential Mentors:** [**Jaskirat Singh**](https://github.com/jaskirat2000) and [**Devesh Verma** ](https://github.com/devesh-verma)
+**Potential Mentors:** [**Jaskirat Singh**](https://github.com/jaskirat2000) , [**Devesh Verma** ](https://github.com/devesh-verma) and  [**Vaibhav D. Aren**](https://github.com/vaibhavdaren)
 
 ### 2. Developing a module with a Tag Cloud with a post check mechanism
 
@@ -113,7 +114,7 @@ PART 2: Suppose that **"X"** user writes some post, so before publishing it. He 
 
 **Expected Outcome:** This project would result in development of a tag mechanism with an appropriate dashboard where one can "Create/Edit/Manage/Delete" with proper settings option.
 
-**Potential Mentors:** [**Jaskirat Singh**](https://github.com/jaskirat2000) and [**Devesh Verma** ](https://github.com/devesh-verma)
+**Potential Mentors:** [**Jaskirat Singh**](https://github.com/jaskirat2000) , [**Devesh Verma** ](https://github.com/devesh-verma) and  [**Vaibhav D. Aren** ](https://github.com/vaibhavdaren)
 
 
 
