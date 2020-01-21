@@ -28,9 +28,12 @@
 ## ACTIVITIES
 
 * [Google-Summer-Of-Code-2020](activities/gsoc2020/README.md)
-  * [GSOC 2020 Ideas](activities/gsoc2020/gsoc2020-ideas.md)
-* [Google-Summer-Of-Code-2019](activities/google-summer-of-code-2020/README.md)
-  * [GSOC-2019-Ideas](activities/google-summer-of-code-2020/gsoc-2019-ideas.md)
+  * [GSoC 2020 Ideas](activities/gsoc2020/gsoc2020-ideas/README.md)
+    * [Development of Admin Management mechanism for DONUT](activities/gsoc2020/gsoc2020-ideas/role-management.md)
+    * [Developing a module with a Tag Cloud with a post check mechanism](activities/gsoc2020/gsoc2020-ideas/tag-mechanism.md)
+    * [Displaying Github Activity Data in Donut Platform](activities/gsoc2020/gsoc2020-ideas/github-bot.md)
+* [Google-Summer-Of-Code-2019](activities/google-summer-of-code-2019/README.md)
+  * [GSOC-2019-Ideas](activities/google-summer-of-code-2019/gsoc-2019-ideas.md)
 * [GSOC Student-Application-Template](activities/gsoc-student-application-template.md)
 * [Rails Girls Summer of Code 2020](activities/rails-girls-summer-of-code-2020.md)
 
