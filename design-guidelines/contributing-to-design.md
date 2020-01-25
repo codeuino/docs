@@ -12,7 +12,7 @@ What is our design workflow?
 
 ### Things you need to follow
 
-As a community, we follow some design principles to improve the understanding of the process of design and ease the work flow. Before starting to design, we need you to understand the principles and put them in use while contributing.
+As a community, we follow some design principles to improve the understanding of the process of design and ease the workflow. Before starting to design, we need you to understand the principles and put them in use while contributing.
 
 ###  1. Data Empower Us
 
@@ -53,7 +53,7 @@ This  includes corporate design \(logos and branding\), Illustrations, marketing
 
 ### UI/UX Design
 
-This is the major part of design in the community. It consists of UI screens, Wire-frames and Hi-fidelity mock-ups for both web and mobile devices.
+This is the major part of the design in the community. It consists designing of UI screens, Wire-frames and Hi-fidelity mock-ups for both web and mobile devices.
 
 **Platform:** Figma
 

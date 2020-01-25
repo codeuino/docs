@@ -8,5 +8,5 @@ description: >-
 
 ## Table of Contents
 
-{% page-ref page="donut-design-guidelines.md" %}
+{% page-ref page="./" %}
 
