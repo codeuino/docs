@@ -27,11 +27,3 @@ All tasks on this page already indicate mentors for the task. New tasks on this 
 
 {% page-ref page="github-bot.md" %}
 
-{% page-ref page="Badge_and_point_allotment_api.md" %}
-
-{% page-ref page="Comment_Management_API.md" %}
-
-{% page-ref page="Issue_Management_API.md" %}
-
-{% page-ref page="Pull_Request_manager_API.md" %}
-
