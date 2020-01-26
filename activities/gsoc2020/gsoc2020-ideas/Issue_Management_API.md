@@ -10,11 +10,11 @@ In Codebadge, presently all the badge allotment computation are taking place on 
 * Auto assigning issue on the basis of past issue solutions.
 * Update database schema wherever required with an efficient schema design.
 * Reward point updates in database for issue and updating badges on basis of points.
-Required Skills/knowledge:
+## **Required Skills/knowledge:**
 * Good knowledge of databases
 * languages such as NodeJs, python for machine learning
 * experience of using github apis
 * Good Knowledge of Modules Bundling
 * Good Knowledge of making Restfull API services
 
-Difficulty Level: Moderate
+## **Difficulty Level: Moderate**
