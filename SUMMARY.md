@@ -30,6 +30,7 @@
 
 * [Google-Summer-Of-Code-2020](activities/gsoc2020/README.md)
   * [GSoC 2020 Ideas](activities/gsoc2020/gsoc2020-ideas/README.md)
+    * [Pull Request manager API](activities/gsoc2020/gsoc2020-ideas/pull-request-manager-api.md)
     * [Comment Management API](activities/gsoc2020/gsoc2020-ideas/comment-management-api.md)
     * [Issue Management API](activities/gsoc2020/gsoc2020-ideas/issue-management-api.md)
     * [Badge and point allotment Api](activities/gsoc2020/gsoc2020-ideas/badge-and-point-allotment-api.md)
