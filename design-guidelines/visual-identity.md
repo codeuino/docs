@@ -80,10 +80,3 @@ Variations of font weights can be used while presenting text.
 
 ![](../.gitbook/assets/artboard-3.jpg)
 
-
-
-
-
-  
-****
-
