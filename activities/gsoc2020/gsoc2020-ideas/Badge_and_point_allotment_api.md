@@ -12,5 +12,8 @@ In Codebadge, presently all the badge allotment computation are taking place at 
 * Fetching contribution outside browser without using cron jobs approach which makes the computation speed slower.
 ## **Required Skills/knowledge:**
 * Good knowledge of databases
-* languages such as NodeJs, Sockets, using github apis
+* languages such as NodeJs
+* experience of working sockets programming and using github apis
 * Good Knowledge of Modules Bundling
+
+### Difficulty Level: Moderate
