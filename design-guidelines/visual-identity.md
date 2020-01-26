@@ -1,4 +1,4 @@
-# Visual Identity
+# Codeuino Visual Identity
 
 ### What is Visual Identity?
 
@@ -16,7 +16,9 @@ These guidelines have been laid out to improve the visual application of the Log
 It is for the use of developers, designers and others who may use the logo. The document lays down all the guidelines of how and where should the logo be used. It is important that the logo remains consistent across all platforms, signage and marketing collateral.  
 
 
-### Codeuino Visual Identity
+## Codeuino Visual Identity
+
+### Logo
 
 #### Standard Logo - Vertical
 
@@ -30,9 +32,58 @@ It is for the use of developers, designers and others who may use the logo. The 
 
 ![Logomark](../.gitbook/assets/artboard-1-copy-4.jpg)
 
-{% file src="../.gitbook/assets/colored-horizontal.svg" caption="Standard Logo - Horizontal" %}
+{% file src="../.gitbook/assets/colored-horizontal.svg" caption="Standard Logo - Horizontal - SVG" %}
 
-{% file src="../.gitbook/assets/colored-vertical.svg" caption="Standard Logo - Vertical" %}
+{% file src="../.gitbook/assets/colored-horizontal.png" caption="Standard Logo - Horizontal - PNG" %}
 
-{% file src="../.gitbook/assets/colored-logomark.svg" caption="LogoMark" %}
+{% file src="../.gitbook/assets/colored-vertical.svg" caption="Standard Logo - Vertical - SVG" %}
+
+{% file src="../.gitbook/assets/colored-vertical.png" caption="Standard Logo -Vertical - PNG" %}
+
+{% file src="../.gitbook/assets/colored-logomark.svg" caption="LogoMark - SVG" %}
+
+{% file src="../.gitbook/assets/colored-logomark.png" caption="LogoMark - PNG" %}
+
+
+
+### Colour palette
+
+**Chromatic colours** 
+
+Codeuino Blue \(\#24257C\) is the main colour of the Codeuino identity so it has the strongest presence on our brand.  
+****
+
+**Achromatic versions :** 
+
+Codeuino White \(\#FFFFFF\)  
+Codeuino Black \(\#000000\)
+
+![](../.gitbook/assets/artboard-2.jpg)
+
+### 
+
+### Typefaces
+
+#### **Primary and Secondary Font**
+
+Inter is both the primary and secondary font of Codeuino. 
+
+![](../.gitbook/assets/font.jpg)
+
+The font files can be downloaded from [GITHUB](https://github.com/rsms/inter/tree/master/docs/font-files)
+
+#### 
+
+#### Font Weights
+
+Variations of font weights can be used while presenting text.
+
+![](../.gitbook/assets/artboard-3.jpg)
+
+
+
+
+
+  
+****
 

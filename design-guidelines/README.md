@@ -2,7 +2,7 @@
 
 ## CodeUino Design
 
-![](../.gitbook/assets/artboard-2.jpg)
+![](../.gitbook/assets/artboard-2%20%281%29.jpg)
 
 ### What is CodeUino Design?
 

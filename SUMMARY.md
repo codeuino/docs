@@ -5,7 +5,7 @@
 * [CodeUino Design](design-guidelines/README.md)
   * [Design Workflow](design-guidelines/design-workflow.md)
   * [Contributing to Design](design-guidelines/contributing-to-design.md)
-  * [Visual Identity](design-guidelines/visual-identity.md)
+  * [Codeuino Visual Identity](design-guidelines/visual-identity.md)
 
 ## Donut <a id="donut-docs"></a>
 
