@@ -30,6 +30,7 @@
 
 * [Google-Summer-Of-Code-2020](activities/gsoc2020/README.md)
   * [GSoC 2020 Ideas](activities/gsoc2020/gsoc2020-ideas/README.md)
+    * [Badge and point allotment Api](activities/gsoc2020/gsoc2020-ideas/badge-and-point-allotment-api.md)
     * [Development of Admin Management mechanism for DONUT](activities/gsoc2020/gsoc2020-ideas/role-management.md)
     * [Developing a module with a Tag Cloud with a post check mechanism](activities/gsoc2020/gsoc2020-ideas/tag-mechanism.md)
     * [Displaying Github Activity Data in Donut Platform](activities/gsoc2020/gsoc2020-ideas/github-bot.md)
