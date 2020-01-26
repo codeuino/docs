@@ -50,7 +50,7 @@ It is for the use of developers, designers and others who may use the logo. The 
 
 **Chromatic colours** 
 
-Codeuino Blue \(\#24257C\) is the main colour of the Codeuino identity so it has the strongest presence on our brand.  
+Codeuino Blue \(\#25257C\) is the main colour of the Codeuino identity so it has the strongest presence on our brand.  
 ****
 
 **Achromatic versions :** 
