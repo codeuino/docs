@@ -44,6 +44,16 @@ It is for the use of developers, designers and others who may use the logo. The 
 
 {% file src="../.gitbook/assets/colored-logomark.png" caption="LogoMark - PNG" %}
 
+
+
+#### Presentation
+
+{% file src="../.gitbook/assets/presentation-logo-horizontal.jpg" caption="Presentation Logo - Horizontal" %}
+
+{% file src="../.gitbook/assets/presentation-logo-vertical.jpg" caption="Presentation Logo - Vertical" %}
+
+{% file src="../.gitbook/assets/presentation-logo-logomark.jpg" caption="Presentation Logo - LogoMark" %}
+
 ### 
 
 ### Colour palette
@@ -63,7 +73,6 @@ Codeuino Black \(\#000000\)
 
 {% file src="../.gitbook/assets/achromatic-black.zip" caption="Achromatic - Black - SVG, PNG" %}
 
-  
 
 
 ### Typefaces
