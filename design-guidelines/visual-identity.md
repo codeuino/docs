@@ -38,13 +38,13 @@ It is for the use of developers, designers and others who may use the logo. The 
 
 {% file src="../.gitbook/assets/colored-vertical.svg" caption="Standard Logo - Vertical - SVG" %}
 
-{% file src="../.gitbook/assets/colored-vertical.png" caption="Standard Logo -Vertical - PNG" %}
+{% file src="../.gitbook/assets/colored-vertical.png" caption="Standard Logo - Vertical - PNG" %}
 
 {% file src="../.gitbook/assets/colored-logomark.svg" caption="LogoMark - SVG" %}
 
 {% file src="../.gitbook/assets/colored-logomark.png" caption="LogoMark - PNG" %}
 
-
+### 
 
 ### Colour palette
 
@@ -56,11 +56,15 @@ Codeuino Blue \(\#25257C\) is the main colour of the Codeuino identity so it has
 **Achromatic versions :** 
 
 Codeuino White \(\#FFFFFF\)  
-Codeuino Black \(\#000000\)
+Codeuino Black \(\#000000\)  
 
-![](../.gitbook/assets/artboard-2.jpg)
 
-### 
+{% file src="../.gitbook/assets/achromatic-white.zip" caption="Achromatic - White - SVG, PNG" %}
+
+{% file src="../.gitbook/assets/achromatic-black.zip" caption="Achromatic - Black - SVG, PNG" %}
+
+  
+
 
 ### Typefaces
 
