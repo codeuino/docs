@@ -48,6 +48,10 @@ It is for the use of developers, designers and others who may use the logo. The 
 
 #### Presentation
 
+While presenting the logo, Use the Codeuino-White logo with Codeuino-Blue as background.
+
+![Presentation](../.gitbook/assets/artboard-4.jpg)
+
 {% file src="../.gitbook/assets/presentation-logo-horizontal.jpg" caption="Presentation Logo - Horizontal" %}
 
 {% file src="../.gitbook/assets/presentation-logo-vertical.jpg" caption="Presentation Logo - Vertical" %}
