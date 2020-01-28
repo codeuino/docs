@@ -33,7 +33,7 @@ Stage 2: Under Review
 Stage 3: More information required -&gt; This will be an optional stage and will be seen of the organization requests for more information from the user regarding the project. If the organization accepts the proposal then the tacker will jump to stage 4.  
 Stage 4: Proposal accepted.
 
-![Sample Image for proposal tracker](../../../.gitbook/assets/assets_-lsv46f7uzuvdedvews0_-ltflz2mqkow25nhe1al_-ltfm3no_hb7me2lxeku_artboard-1.jpg)
+![Sample Image for proposal tracker](../../../../.gitbook/assets/assets_-lsv46f7uzuvdedvews0_-ltflz2mqkow25nhe1al_-ltfm3no_hb7me2lxeku_artboard-1.jpg)
 
 **Task 5: Providing comment functionality on proposal page:**  
 This functionality will be enabled only when the organization asks for more info regarding the proposal. To understand this more clearly think of a situation where in user has submitted a proposal for some FOSS organization. The organization after going through the proposal wants bit more info or wants to have more clarity on the idea then the tracked will show Stage: More information required. On this stage we need to have a comment functionality which will behave more like a thread where organization and user can interact and get thing more clear.
