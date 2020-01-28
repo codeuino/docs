@@ -4,7 +4,6 @@
   * Issues\[open/close/comment/assign/unassign/assignedUsers\]
   * pr\[open/close/comment/review\]
   * Share Issue on Donut as a post
-  * Reply to comments through Donut platform
 * While enabling the bot 
   * Send a request to admin
     * Then select repos to enable the bot

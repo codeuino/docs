@@ -2,7 +2,7 @@
 description: This page contains the ideas list of GSoC 2020
 ---
 
-# GSoC 2020 Idea Page
+# GSoC 2020 Ideas
 
 **Welcome to our Google Summer Of Code 2020 ideas page. As a student, you are welcome to pick any of the ideas listed below and start early in the community bonding process as well as learning a bit about our code if we get selected as a mentoring organization. And of course, we'd love you to stay around even if we are not invited to GSoC or if we cannot invite you as a student.**
 
@@ -21,29 +21,19 @@ All tasks on this page already indicate mentors for the task. New tasks on this 
 
 ## **IDEA LIST FOR GSoC 2020**
 
-### Social Platform Donut GSoC Ideas:
+{% page-ref page="role-management.md" %}
 
-{% page-ref page="donut-project-ideas/role-management.md" %}
+{% page-ref page="tag-mechanism.md" %}
 
-{% page-ref page="donut-project-ideas/tag-mechanism.md" %}
+{% page-ref page="github-bot.md" %}
 
-{% page-ref page="donut-project-ideas/github-bot.md" %}
+{% page-ref page="pull-request-manager-api.md" %}
 
-{% page-ref page="donut-project-ideas/draft-proposal-functionality.md" %}
+{% page-ref page="comment-management-api.md" %}
 
-{% page-ref page="donut-project-ideas/draft-bot-for-donut-platform.md" %}
+{% page-ref page="issue-management-api.md" %}
 
-{% page-ref page="donut-project-ideas/draft-url-shortener-for-donut.md" %}
-
-### Codebadege GSoC Ideas:
-
-{% page-ref page="codebadge-project-ideas/pull-request-manager-api.md" %}
-
-{% page-ref page="codebadge-project-ideas/comment-management-api.md" %}
-
-{% page-ref page="codebadge-project-ideas/issue-management-api.md" %}
-
-{% page-ref page="codebadge-project-ideas/badge-and-point-allotment-api.md" %}
+{% page-ref page="badge-and-point-allotment-api.md" %}
 
 
 

@@ -1,15 +1,16 @@
-# \(InProgress\)Proposal Functionality
+# Proposal Functionality
 
-**Summary:**  
+### **Summary:**
+
 This feature of Donut platform will enable individual developers to reach out to Open Source Organizations. Doing so will help developers and organizations in many different ways, lets see how developers can get benefit from this:
 
 *  Consider an individual developer who is passionate about his/her project which he/she thinks is good enough and wants to showcase this project under any reputed organization.
 * Consider a scenario where developer wants to reach out to a bigger crowd of developers seeking help in development or enhancement of the project.
 * Or say someone has some crazy idea which he wants to propose under any Open Source Organization seeking help from them then this functionality will help the developer in such scenario.
 
-## **Detailed Info:**
+### **Detailed Info:**
 
-### User Facing Tasks:
+#### User Facing Tasks:
 
 * [ ] Build a Proposal page in Donut platform.
 * [ ] Proposal page should have a markdown editor.
@@ -54,4 +55,33 @@ If admins feels the idea or project is good and wants to proceed with it then th
 
 **Task 3: Intergrate Jitsi for video calls:**  
 To provide more flexibility in terms of interaction between admins and user. Admins can setup a meeting with the user. To provide this video call functionality you need to intergate Jitsi\[2\] with Donut platform.
+
+### **Expected Outcome:**
+
+* The user should be able to draft the proposal.
+* User can save the proposal as draft and resume it as later point of time.
+* Upon submitting the user should see the proposal tracker screen.
+* Admins should receive email when a new proposal is submitted.
+* Admins should be able to see all the submitted proposal on admin dashboard.
+* Proposal should open in new tab once user admin clicks on a particular proposal.
+* Admin can add comments to the proposal.
+* Admin can setup a meeting with the user using Jitsi.
+* User should receive email once proposal gets accepted.
+
+### **References:**
+
+\[1\] Proposal page design link.       TO BE ADDED SOON  
+\[2\] [https://jitsi.org/](https://jitsi.org/)
+
+### Tech Stack:
+
+* MongoDB, AWS S3.
+* NodeJs, JavaScript, ReactJs
+
+### **Difficulty Level:**   Hard
+
+### **Potential Mentors:** 
+
+* [**Jaskirat Singh**](https://github.com/jaskirat2000)  
+* [**Devesh Verma**](https://github.com/devesh-verma)
 
