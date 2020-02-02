@@ -85,6 +85,8 @@ Make sure you get through the **"**[**Mentor Guide**](https://railsgirlssummerof
 
 ## Project Ideas
 
+### IDEA 1
+
 ### Project description
 
 Codeuino is an open source social networking organisation that tends to work for building social environments for communities, allowing them to use in their custom way. Codebadge stands out as one of the community run project which aims to support contributors with badges and allowing Community admins/moderators to use it in their custom way for every contributor involved through their contribution in the organizations. We are developing a FOSS tool that allows ones to create badges and integrate them with their forums which is based on github commits. It has got more enhanced features which allow them with analytics, drafting, allotment and many more.
@@ -123,4 +125,67 @@ This project includes working on various tasks such as development of Organisati
 * Layers using js and Flask.
 * Pick tool using Python.
 * Pen tool using js
+
+### IDEA 2
+
+### Project Description
+
+Codeuino is an open source social networking organisation that tends to work for building social environments for communities, allowing them to use in their custom way.  "**Season of Design**" is one of the new initiative by Codeuino which tends to focus more on diverse tech designers. The goal of Season of Design is to provide a platform for designers and Open source organizations to collaborate and work to improve the design of their open source projects. Since not many designers are a part of the open-source community, we want to bridge the gap between them and let them gain experience in contributing to open source communities.  For designers who are a part of open source communities, it provides them a way to collaborate with other designers and find ways to work more effectively.
+
+So taking this into consideration this project idea will aim to build a "**Management System**" for **Organizers**, **Org Admins/Mentors** and **Mentees** separately for the above idea where they could collaborate easily and efficiently.
+
+### Project Requirements
+
+The ideal students who would be working on this project needs to have a good knowledge of web development. React, Java script and any other front-end framework a student is comfortable to deliver same results is welcomed.  Prior knowledge of working with databases Nodejs, mongo/angular would be an important addition alongside with understanding of UI/UX.
+
+### Tasks and Features
+
+This project would be developed in 3 separate sections. Please find the details of requirements needed in these three sections below:
+
+**PART 1- For Organizers:**  Organizers are the ones who would be conducting/hosting this program keeping this into mind that organizers change with seasons. So for organizers student would be required to make a dashboard where they can track all the activities of a org mentor and mentees.
+
+* Organisers would be able to have control over the whole setup where they can change things in between or launch up initially.
+* Organisers can add members to the community through Invites, also can invite other as an Admin/moderator due which all the same rights will be shared with the other person.
+* Blocking users \( Giving access to block people\), Removing people from the contest whenever needed.
+* Analytical representation \(This will help organizers know about stat for their posts, members joined, etc\)
+* Giving Access to delete/remove any thing which is visible to mentors and mentees such as comments,etc
+* Giving them access to change modules in between any time through toggle or any other available options such as Theme change, Removing/Adding any other modules,
+* Making a feature of "**Maintenance**". with this no user should be able to login/signup . they should see a particular page of maintenance. these rights should be given to only admins.
+* Allowing to give them access for the "settings" of the community
+* Giving them access to "Open/Close" signups and logins for the communities.
+* Making the screens to draft announcements which will be visible to the admins, mentors and mentees.
+* Allowing project submission forms.
+* Way of evaluating Admins/Mentors and Mentees.
+
+ **PART 2 - For Admins:** Admins would be the ones who would be drafting an application for their project/community in this program and will work collectively with mentors and mentees just like GSoC.
+
+Development of module for Configuration screens :
+
+* **Screen 1:** Registering Admin account with information such as Admin name, Email, Username, Password, etc. For example check [**here**](https://www.tecmint.com/wp-content/uploads/2018/05/Create-New-Discourse-Account.png)
+* **Screen 2:** Include Admin Account Confirmation through email. An email send to the Admin account, On confirmation should redirect them to the page of "Activate Account" which further leads to other setup.
+* **Screen 3:** Welcoming Screen, that should allow to setup Community account.  For hint check [**here**](https://support.patreon.com/hc/article_attachments/360027026912/Image_2019-04-24_at_9.25.35_AM.png) **and filling project details.**
+* **Screen 4:** Setting up Community profile and permissions like Community Name, Description,Welcoming Invites, Access \( Is community open to everyone or limited to invites,etc. \), Automated Invites, System Email setup, etc.
+* They will have dedicate pages for submitting their projects, inviting mentors and keeping a track with stats.
+* They would be able to communicate with Organizers, Mentors and Mentees.
+* If one Admin invites some other user as Admin then they should have a mechanism to share their dashboards.
+* They can invite mentors to their project through forms and emails which should be drafted within this platform.
+* Way of evaluating Mentors and Mentees.
+
+**Mentors will also have a same kinda dashboard**
+
+**PART 3 - For Mentees: Mentees \(here designers\) would be the ones who would be working on projects, drafting UI/UX of the projects. mentees needs to have a dashboard for themselves.**
+
+* Mechanism for mentees to register themselves through profile set up
+* Choose projects which will be visible on their dashboard and select
+* Integration of wiki or kinda doc which they would be using to submit their project proposal to mentors
+* Way to communicate with others through comments
+* Visual analytics which will help them to view their progress
+* Way to submit their work and asking mentors to evaluate.
+
+\*\*\*\*
+
+
+
+  
+ 
 
