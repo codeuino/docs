@@ -1,2 +1,0 @@
-# Codebadge Ideas
-
