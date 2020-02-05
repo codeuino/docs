@@ -4,7 +4,9 @@
 
 High
 
-### **Description**
+### **Description:**
+
+#### **Summary**
 
 * Creating a Webhook which fires when a comment is made on the issues/pull request. This webhook link shall be provided to the admin at the time of adding an organization to his/her dashboard.
 * The comment must be analysed and decided how much the issue is relocatable to the issue topic using machine learning.
@@ -25,11 +27,7 @@ High
 
 Moderate
 
-### Expected Outcome:
-
-This project would result in the improvement in the badge alotment system of Codebadge project by evaluating the comments on github which will allow admin to judge the progress of the project in the better way.
-
-### Potential Mentors:-
+### **Potential** Mentors:
 
 [**Jaskirat Singh**](https://github.com/jaskirat2000) and [**Vaibhav D. Aren**](https://github.com/vaibhavdaren)
 

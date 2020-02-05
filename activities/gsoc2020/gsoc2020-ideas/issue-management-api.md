@@ -6,6 +6,8 @@ High
 
 ### **Description:**
 
+#### **Summary**
+
 In Codebadge, presently all the badge allotment computation are taking place on the basis of comment count. We want to create a smarter approach to give each user its token of appreciation. Moreover CRON jobs approach which is being followed at present is pretty slow and hence need to optimist it. Trello dashboard being an awesome tool to manage Issue and pull requests is something we would like to take into consideration as a platform to manage the tasks and issues. The task to be performed under this project are:-
 
 * Creating a Webhook which fires when a issue is made on the project. This webhook link shall be provided to the admin at the time of adding an organization to his/her dashboard.
@@ -29,11 +31,7 @@ In Codebadge, presently all the badge allotment computation are taking place on 
 
 Moderate
 
-### Expected Outcome:
-
-This project would result in the improvement in the badge alotment system of Codebadge project by evaluating the quality of issue which will allow admin to judge the progress of the project in the better way.
-
-### Potential Mentors:-
+###  **Potential Mentors:**
 
 [**Jaskirat Singh**](https://github.com/jaskirat2000) and [**Vaibhav D. Aren**](https://github.com/vaibhavdaren)
 

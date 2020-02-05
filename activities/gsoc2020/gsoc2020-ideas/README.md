@@ -33,23 +33,13 @@ All tasks on this page already indicate mentors for the task. New tasks on this 
 
 {% page-ref page="draft-bot-for-donut-platform.md" %}
 
-{% page-ref page="draft-url-shortener-for-donut.md" %}
-
 ### Codebadege GSoC Ideas:
+
+{% page-ref page="badge-and-point-allotment-api.md" %}
+
+{% page-ref page="issue-management-api.md" %}
 
 {% page-ref page="pull-request-manager-api.md" %}
 
 {% page-ref page="comment-management-api.md" %}
-
-{% page-ref page="issue-management-api.md" %}
-
-{% page-ref page="badge-and-point-allotment-api.md" %}
-
-
-
-
-
-
-
-
 
