@@ -6,8 +6,6 @@ High
 
 ### Description:
 
-#### Summary
-
 In Codebadge, presently all the badge allotment computation are taking place at browser level. We require to shift all the badge related computation at back-end using nodejs API. The task to be preformed under this task are:-
 
 * Designing a database schema to manage user points for projects and organization, storing badge templates in efficient manner, storing admin defined pattern for awarding badges and special badges.
@@ -30,7 +28,15 @@ In Codebadge, presently all the badge allotment computation are taking place at 
 
 Moderate
 
-###  Potential Mentors:
+#### References
+
+[**Trello Webhooks**](https://developers.trello.com/page/webhooks)
+
+### Expected Outcome:
+
+This project would result in the improvement in the badge alotment system of Codebadge project which will allow admin to judge the progress of the project in the better way.
+
+### Potential Mentors:-
 
 [**Jaskirat Singh**](https://github.com/jaskirat2000) and [**Vaibhav D. Aren**](https://github.com/vaibhavdaren)
 
