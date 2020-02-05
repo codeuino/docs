@@ -1,12 +1,10 @@
-# Pull Request manager API  within Codebadge
+# Pull Request manager API
 
-### **Priority:**
+## \*\*\*\*
 
-High
+**Priority:- High**
 
-### **Description:**
-
-#### **Summary**
+### **Summary**
 
 In Codebadge, presently all the badge allotment computation are taking place on the basis of comment count. We want to create a smarter approach to give each user its token of appreciation. Moreover CRON jobs approach which is being followed at present is pretty slow and hence need to optimise it. Trello dashboard being an awesome tool to manage Issue and pull requests is something we would like to take into consideration as a platform to manage the tasks and issues. The task to be performed under this project are:-
 
@@ -28,9 +26,5 @@ In Codebadge, presently all the badge allotment computation are taking place on 
 * Good Knowledge of Modules Bundling
 * Good Knowledge of making restful API services
 
-### **Difficulty Level:** 
-
-Moderate
-
-### **Potential Mentors:**
+### **Difficulty Level: Moderate**
 

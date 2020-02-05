@@ -31,7 +31,7 @@
 * [Google-Summer-Of-Code-2020](activities/gsoc2020/README.md)
   * [GSoC 2020 Idea Page](activities/gsoc2020/gsoc2020-ideas/README.md)
     * [Development of Admin Management mechanism for DONUT](activities/gsoc2020/gsoc2020-ideas/role-management.md)
-    * [Developing a module with a Tag Cloud with a post check mechanism](activities/gsoc2020/gsoc2020-ideas/tag-mechanism.md)
+    * [Developing a module with a Tag Cloud and a post check mechanism](activities/gsoc2020/gsoc2020-ideas/tag-mechanism.md)
     * [Displaying Github Activity Data in Donut Platform](activities/gsoc2020/gsoc2020-ideas/github-bot.md)
     * [Proposal Functionality\(Pledge a research project\) inside Donut](activities/gsoc2020/gsoc2020-ideas/draft-proposal-functionality.md)
     * [Personal Assistant for Donut Platform](activities/gsoc2020/gsoc2020-ideas/draft-bot-for-donut-platform.md)
