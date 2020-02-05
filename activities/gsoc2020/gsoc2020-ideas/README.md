@@ -39,7 +39,7 @@ All tasks on this page already indicate mentors for the task. New tasks on this 
 
 {% page-ref page="issue-management-api.md" %}
 
-{% page-ref page="pull-request-manager-api.md" %}
-
 {% page-ref page="comment-management-api.md" %}
+
+{% page-ref page="pull-request-manager-api.md" %}
 
