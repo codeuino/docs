@@ -1,4 +1,4 @@
-# Badge and point allotment Api
+# Badge and point allotment API inside Codebadge
 
 ### Priority:
 

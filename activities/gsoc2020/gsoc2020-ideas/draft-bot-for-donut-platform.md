@@ -50,5 +50,5 @@ Hard
 
 ### **Potential Mentors:** 
 
-[**Devesh Verma**](https://github.com/devesh-verma)  **and** [**Lakshya Khera**](https://github.com/lakshyabatman)\*\*\*\*
+\*\*\*\*[**Jaskirat Singh**](https://github.com/jaskirat2000) ****and ****[**Devesh Verma**](https://github.com/devesh-verma) ****
 
