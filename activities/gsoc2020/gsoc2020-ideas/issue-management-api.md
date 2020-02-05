@@ -17,17 +17,17 @@ In Codebadge, presently all the badge allotment computation are taking place on 
 * Update database schema wherever required with an efficient schema design.
 * Reward point updates in database for issue and updating badges on basis of points.
 
-{% hint style="warning" %}
-**References:** [**Text similarity using Corpus**](https://www.site.uottawa.ca/~diana/publications/tkdd.pdf) **,** [**Trello Webhooks**](https://developers.trello.com/page/webhooks)
-{% endhint %}
-
 ### **Required Skills/knowledge:**
 
 * Good knowledge of databases
 * languages such as NodeJs, python for machine learning
-* experience of using GitHub apis
+* experience of using github apis
 * Good Knowledge of Modules Bundling
-* Good Knowledge of making Restful API services
+* Good Knowledge of making Restfull API services
+
+### Reference: 
+
+[Text similarity using Corpus](https://www.site.uottawa.ca/~diana/publications/tkdd.pdf), **,** [**Trello Webhooks**](https://developers.trello.com/page/webhooks)
 
 ### **Difficulty Level:** 
 
@@ -35,7 +35,7 @@ Moderate
 
 ### Expected Outcome:
 
-This project would result in the improvement in the badge allotment system of Codebadge project by evaluating the quality of issue which will allow admin to judge the progress of the project in the better way.
+This project would result in the improvement in the badge alotment system of Codebadge project by evaluating the quality of issue which will allow admin to judge the progress of the project in the better way.
 
 ### Potential Mentors:-
 

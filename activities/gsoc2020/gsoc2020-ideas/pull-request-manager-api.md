@@ -6,7 +6,7 @@ High
 
 ### **Description:**
 
-In Codebadge, presently all the badge allotment computation are taking place on the basis of comment count. We want to create a smarter approach to give each user its token of appreciation. Moreover CRON jobs approach which is being followed at present is pretty slow and hence need to optimise it. Trello dashboard being an awesome tool to manage Issue and pull requests is something we would like to take into consideration as a platform to manage the tasks and issues. The task to be performed under this project are:-
+In Codebadge, presently all the badge allotment computation are taking place on the basis of comment count. We want to create a smarter approach to give each user its token of appreciation. Moreover CRON jobs approach which is being followed at present is pretty slow and hence need to optimize it. Trello dashboard being an awesome tool to manage Issue and pull requests is something we would like to take into consideration as a platform to manage the tasks and issues. The task to be performed under this project are:-
 
 * Creating a Webhook which fires when a pull request is made on the project. This webhook link shall be provided to the admin at the time of adding an organization to his/her dashboard.
 * Admin dashboard interact with Trello to check the award points if already set on trello cards.
