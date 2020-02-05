@@ -2,7 +2,7 @@
 
 ### **Priority:**
 
-High
+Moderate
 
 ### **Description:**
 
@@ -32,6 +32,4 @@ In Codebadge, presently all the badge allotment computation are taking place on 
 Moderate
 
 ###  **Potential Mentors:**
-
-[**Jaskirat Singh**](https://github.com/jaskirat2000) and [**Vaibhav D. Aren**](https://github.com/vaibhavdaren)
 
