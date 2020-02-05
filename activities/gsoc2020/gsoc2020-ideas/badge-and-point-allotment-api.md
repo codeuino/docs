@@ -32,5 +32,5 @@ Moderate
 
 ###  Potential Mentors:
 
-
+[**Jaskirat Singh**](https://github.com/jaskirat2000) and [**Vaibhav D. Aren**](https://github.com/vaibhavdaren)
 
