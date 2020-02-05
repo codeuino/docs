@@ -1,15 +1,19 @@
 # Development of Admin Management mechanism for DONUT
 
-**Priority:** High
+### **Priority:** 
 
-**Description:** [**Donut Platform**](https://github.com/codeuino/Social-Platform-Donut) is a flexible open source **Social Network Kit that aims** to give you the customized social network, social intranet or huge social enterprise application for communities that really fits their needs.
+High
+
+### **Description:**
+
+ [**Donut Platform**](https://github.com/codeuino/Social-Platform-Donut) is a flexible open source **Social Network Kit that aims** to give you the customized social network, social intranet or huge social enterprise application for communities that really fits their needs.
 
 Development of configuration mechanism is one of our newest additions to our installation frameworks of Donut Platform. Currently Donut is central hosted but aims to get bundled as FOSS/OSS tool. So, the task of this major project is to develop an **Admin Management System** that will allow individuals or community admins to setup for themselves. To simplify the configuration, these predefined modules will have the most common use cases with different options for modules and settings while setting up this environment.Few have been described below which would serve essential features as a separate modules:
 
 1. Development of module for Configuration screens :
 2. **Screen 1:** Registering Admin account with information such as Admin name, Email, Username, Password, etc. For example check [**here**](https://www.tecmint.com/wp-content/uploads/2018/05/Create-New-Discourse-Account.png)
 3. **Screen 2:** Include Admin Account Confirmation through email. An email send to the Admin account, On confirmation should redirect them to the page of "Activate Account" which further leads to other setup.
-4. **Screen 3:** Welcoming Screen, that should allow to setup Community account.  For hint check [**here**](https://support.patreon.com/hc/article_attachments/360027026912/Image_2019-04-24_at_9.25.35_AM.png)\*\*\*\*
+4. **Screen 3:** Welcoming Screen, that should allow to setup Community account.  For hint check [**here**](https://support.patreon.com/hc/article_attachments/360027026912/Image_2019-04-24_at_9.25.35_AM.png)
 5. **Screen 4:** Setting up Community profile and permissions like Community Name, Description,Welcoming Invites, Access \( Is community open to everyone or limited to invites,etc. \), Automated Invites, System Email setup, etc.
 6. **Screen 5:** This screen includes **View** are from User end that how the Admins want their platform to look like. This will have custom things like Theme Selection, Community Top bar \( Including Logos\), home page look, some other modules. **\(Important Part !\)**
 7. **Screen 6:** Includes the Thumbnail or the preview of the main page based upon the settings configured by Admin.
@@ -30,7 +34,7 @@ This will include building of Admin panel or dashboard which will be visible to 
 **References:** [**Youtube Guide of Discourse SetUp**](https://www.youtube.com/watch?v=sjFlBgSiyCY) **,** [**How to bundle a software \| Tom's Guide**](https://forums.tomsguide.com/threads/how-to-bundle-software-in-one-installer.310629/) **,** [**Admin panel Templates**](https://colorlib.com/wp/admin-panel-templates/)
 {% endhint %}
 
-**Required Skills/knowledge:**
+### **Required Skills/knowledge:**
 
 * Good knowledge of databases
 * languages such as NodeJs, JavaScript, React;
@@ -38,9 +42,15 @@ This will include building of Admin panel or dashboard which will be visible to 
 * Good Knowledge of Modules Bundling
 * UI/UX experience is also required with unique approach.
 
-**Difficulty Level:** Moderate
+### **Difficulty Level:** 
 
-**Expected Outcome:** This project would result in formation of packaged setup of a Donut platform along side with Admin panel with new User Interface that would allow the Admins/Moderators to use it in their custom way.
+Moderate
 
-**Potential Mentors:** [**Jaskirat Singh**](https://github.com/jaskirat2000) , [**Devesh Verma** ](https://github.com/devesh-verma) and [**Vaibhav D. Aren**](https://github.com/vaibhavdaren)
+### **Expected Outcome:** 
+
+This project would result in formation of packaged setup of a Donut platform along side with Admin panel with new User Interface that would allow the Admins/Moderators to use it in their custom way.
+
+### **Potential Mentors:**
+
+ [**Jaskirat Singh**](https://github.com/jaskirat2000) , [**Devesh Verma** ](https://github.com/devesh-verma) and [**Vaibhav D. Aren**](https://github.com/vaibhavdaren)
 

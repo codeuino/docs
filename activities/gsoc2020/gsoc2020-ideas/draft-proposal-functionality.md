@@ -1,6 +1,12 @@
-# Proposal Functionality
+# Proposal Functionality\(Pledge a research project\) inside Donut
 
-### **Summary:**
+### Priority:
+
+Medium
+
+### Description:
+
+#### **Summary:**
 
 This feature of Donut platform will enable individual developers to reach out to Open Source Organizations. Doing so will help developers and organizations in many different ways, lets see how developers can get benefit from this:
 
@@ -8,9 +14,9 @@ This feature of Donut platform will enable individual developers to reach out to
 * Consider a scenario where developer wants to reach out to a bigger crowd of developers seeking help in development or enhancement of the project.
 * Or say someone has some crazy idea which he wants to propose under any Open Source Organization seeking help from them then this functionality will help the developer in such scenario.
 
-### **Detailed Info:**
+#### **Detailed Info:**
 
-#### User Facing Tasks:
+#### Here are the User Facing Tasks:
 
 * [ ] Build a Proposal page in Donut platform.
 * [ ] Proposal page should have a markdown editor.
@@ -53,8 +59,21 @@ As the user submits the proposal the the admins of the organization should be ab
 If Admin marks as more info required which is Stage 3 of the proposal tracker, in that case the admin should be able to add comments from the new page where the proposal opens up for review. Also, any comments added by the user should also be visible to admins on that page.  
 If admins feels the idea or project is good and wants to proceed with it then they can change the state of the proposal to accepted state. As soon as the proposal gets accepted the user should a congratulation email says the propsal has been accepted.
 
-**Task 3: Intergrate Jitsi for video calls:**  
-To provide more flexibility in terms of interaction between admins and user. Admins can setup a meeting with the user. To provide this video call functionality you need to intergate Jitsi\[2\] with Donut platform.
+**Task 3: Integrate Jitsi for video calls:**  
+To provide more flexibility in terms of interaction between admins and user. Admins can setup a meeting with the user. To provide this video call functionality you need to integrate Jitsi with Donut platform.
+
+{% hint style="warning" %}
+**References:** [**Integration of Jitsi**](https://jitsi.org/) **,** [**Make a Pledge \| Open Collective**](https://opencollective.com/pledges/new)\*\*\*\*
+{% endhint %}
+
+### **Required Skills/knowledge:**
+
+* Tech Stack Nodejs, Reactjs and MongoDB
+* Working with AWS S3
+
+### **Difficulty Level:**
+
+Hard
 
 ### **Expected Outcome:**
 
@@ -68,20 +87,7 @@ To provide more flexibility in terms of interaction between admins and user. Adm
 * Admin can setup a meeting with the user using Jitsi.
 * User should receive email once proposal gets accepted.
 
-### **References:**
-
-\[1\] Proposal page design link.       TO BE ADDED SOON  
-\[2\] [https://jitsi.org/](https://jitsi.org/)
-
-### Tech Stack:
-
-* MongoDB, AWS S3.
-* NodeJs, JavaScript, ReactJs
-
-### **Difficulty Level:**   Hard
-
 ### **Potential Mentors:** 
 
-* [**Jaskirat Singh**](https://github.com/jaskirat2000)  
-* [**Devesh Verma**](https://github.com/devesh-verma)
+[**Devesh Verma**](https://github.com/devesh-verma) ****and [**Vaibhav D. Aren**](https://github.com/vaibhavdaren)\*\*\*\*
 

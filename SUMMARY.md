@@ -33,7 +33,7 @@
     * [Development of Admin Management mechanism for DONUT](activities/gsoc2020/gsoc2020-ideas/role-management.md)
     * [Developing a module with a Tag Cloud with a post check mechanism](activities/gsoc2020/gsoc2020-ideas/tag-mechanism.md)
     * [Displaying Github Activity Data in Donut Platform](activities/gsoc2020/gsoc2020-ideas/github-bot.md)
-    * [Proposal Functionality](activities/gsoc2020/gsoc2020-ideas/draft-proposal-functionality.md)
+    * [Proposal Functionality\(Pledge a research project\) inside Donut](activities/gsoc2020/gsoc2020-ideas/draft-proposal-functionality.md)
     * [Personal Assistant for Donut Platform](activities/gsoc2020/gsoc2020-ideas/draft-bot-for-donut-platform.md)
     * [Integrations for Donut](activities/gsoc2020/gsoc2020-ideas/draft-url-shortener-for-donut.md)
     * [Badge and point allotment Api](activities/gsoc2020/gsoc2020-ideas/badge-and-point-allotment-api.md)

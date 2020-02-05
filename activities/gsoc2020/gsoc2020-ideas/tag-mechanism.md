@@ -1,8 +1,12 @@
 # Developing a module with a Tag Cloud with a post check mechanism
 
-**Priority:** Medium
+### **Priority:** 
 
-**Description:** The [**DONUT Platform**](https://github.com/codeuino/Social-Platform-Donut) contains the notification feature which helps users to accommodate things in easy way. So the task of this project is to develop a mechanism for **"tags" \(**[**Explanation of tags in posts by WordPress**](https://en.support.wordpress.com/posts/tags/)**\)** as an independent "**Tags Cloud**"and check and sort out similar posts from user end. These tags will provide a useful way to post users related to quickly tell readers what a post is about and where to redirect or highlight the particular post more. The mechanism should be developed in such a way that users can make their own tags or can also select from predefined tags\(this needs to be built as a kind of panel/store\) which gets automatically saved at one place and can be called as tag cloud and while submitting any posts it should get redirected to the appropriate users/groups which contains the similar tags. The tag cloud needs to be built which can store all the tags. When someone viewing your blog/project/article/any other post, clicks on one of defined Tag links, a Tag archive page with all the posts belonging to that Tag, should be displayed.
+Medium
+
+### **Description:**
+
+ The [**DONUT Platform**](https://github.com/codeuino/Social-Platform-Donut) contains the notification feature which helps users to accommodate things in easy way. So the task of this project is to develop a mechanism for **"tags" \(**[**Explanation of tags in posts by WordPress**](https://en.support.wordpress.com/posts/tags/)**\)** as an independent "**Tags Cloud**"and check and sort out similar posts from user end. These tags will provide a useful way to post users related to quickly tell readers what a post is about and where to redirect or highlight the particular post more. The mechanism should be developed in such a way that users can make their own tags or can also select from predefined tags\(this needs to be built as a kind of panel/store\) which gets automatically saved at one place and can be called as tag cloud and while submitting any posts it should get redirected to the appropriate users/groups which contains the similar tags. The tag cloud needs to be built which can store all the tags. When someone viewing your blog/project/article/any other post, clicks on one of defined Tag links, a Tag archive page with all the posts belonging to that Tag, should be displayed.
 
 Other part of this project is develop a "**Post Check**" mechanism which will help the user writing the post to check from similar posts and allow to do some actions on the similar post.
 
@@ -26,11 +30,11 @@ Now assume other user **"Y"**, suppose "Y" user is already logged into this plat
 
 PART 2: Suppose that **"X"** user writes some post, so before publishing it. He would be shown similar posts that either matches with the **"Title"** or **"Post Content"**. So clicking on any, he would be able to "Add/comment/share/Add reasons". This will help avoid replication of content as well.
 
-{% hint style="info" %}
-**References:** [**Tag module by WordPress**](https://en.support.wordpress.com/posts/tags/) **,** [**Tag Screens by WordPress**](https://en.support.wordpress.com/posts/tags/)\*\*\*\*
+{% hint style="warning" %}
+**References:** [**Tag module by WordPress**](https://en.support.wordpress.com/posts/tags/) **,** [**Tag Screens by WordPress**](https://en.support.wordpress.com/posts/tags/)
 {% endhint %}
 
-**Required Skills/knowledge:**
+### **Required Skills/knowledge:**
 
 * Good knowledge of databases
 * Good Knowledge of Back-end
@@ -38,11 +42,17 @@ PART 2: Suppose that **"X"** user writes some post, so before publishing it. He 
 * For tag-prediction: Python, ML, Supervised learning \(Beginners - Intermediate\)
 * Knowledge of front-end as well for developing a tag dashboard
 
-**Difficulty Level:** Moderate
+### **Difficulty Level:** 
 
-**Expected Outcome:** This project would result in development of a tag mechanism with an appropriate dashboard where one can "Create/Edit/Manage/Delete" with proper settings option.
+Moderate
 
-**Potential Mentors:** [**Jaskirat Singh**](https://github.com/jaskirat2000) , [**Devesh Verma** ](https://github.com/devesh-verma) and [**Vaibhav D. Aren** ](https://github.com/vaibhavdaren)
+### **Expected Outcome:** 
+
+This project would result in development of a tag mechanism with an appropriate dashboard where one can "Create/Edit/Manage/Delete" with proper settings option.
+
+### **Potential Mentors:**
+
+[**Jaskirat Singh**](https://github.com/jaskirat2000) , [**Devesh Verma** ](https://github.com/devesh-verma) and [**Vaibhav D. Aren** ](https://github.com/vaibhavdaren)
 
 
 
