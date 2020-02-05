@@ -1,4 +1,4 @@
-# Developing a module with a Tag Cloud and a post check mechanism
+# Developing a module with a Tag Cloud with a post check mechanism
 
 ### **Priority:** 
 
