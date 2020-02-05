@@ -13,6 +13,10 @@ High
 * Comments must suggest the maintainer some contributor in case of issue. The person who has the most relocatable comment must be suggested and shall be displayed on issue section.
 * Inappropriate comments or language must be awarded a penalty.
 
+{% hint style="warning" %}
+**References:** [**Text similarity using Corpus**](https://www.site.uottawa.ca/~diana/publications/tkdd.pdf) **,** [**Trello Webhooks**](https://developers.trello.com/page/webhooks)\*\*\*\*
+{% endhint %}
+
 ### **Required Skills/knowledge:**
 
 * Good knowledge of databases
@@ -25,13 +29,9 @@ High
 
 Moderate
 
-### Reference: 
-
-[Text similarity using Corpus](https://www.site.uottawa.ca/~diana/publications/tkdd.pdf), **,** [**Trello Webhooks**](https://developers.trello.com/page/webhooks)\*\*\*\*
-
 ### Expected Outcome:
 
-This project would result in the improvement in the badge alotment system of Codebadge project by evaluating the comments on github which will allow admin to judge the progress of the project in the better way.
+This project would result in the improvement in the badge allotment system of Codebadge project by evaluating the comments on github which will allow admin to judge the progress of the project in the better way.
 
 ### Potential Mentors:-
 

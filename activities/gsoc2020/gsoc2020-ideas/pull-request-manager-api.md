@@ -18,6 +18,10 @@ In Codebadge, presently all the badge allotment computation are taking place on 
 * Pull request award points must be visible for user on the respective pull request.
 * Extra award points for an open issue.
 
+{% hint style="warning" %}
+**References:** [**Trello Webhooks**](https://developers.trello.com/page/webhooks) **,** [**Playing with Github Webhooks \| Github**](https://developer.github.com/webhooks/)\*\*\*\*
+{% endhint %}
+
 ### **Required Skills/knowledge:**
 
 * Good knowledge of databases
@@ -26,17 +30,13 @@ In Codebadge, presently all the badge allotment computation are taking place on 
 * Good Knowledge of Modules Bundling
 * Good Knowledge of making restful API services
 
-### Reference: 
-
-[Text similarity using Corpus](https://www.site.uottawa.ca/~diana/publications/tkdd.pdf)**,** [**Trello Webhooks**](https://developers.trello.com/page/webhooks)\*\*\*\*
-
 ### **Difficulty Level:** 
 
-**Moderate**
+Moderate
 
 ### Expected Outcome:
 
-This project would result in the improvement in the badge alotment system of Codebadge project by evaluating the pull request **** on github which will allow admin to judge the progress of the project in the better way.
+This project would result in the improvement in the badge allotment system of Codebadge project by evaluating the pull request **** on GitHub which will allow admin to judge the progress of the project in the better way.
 
 ### **Potential Mentors:**
 
