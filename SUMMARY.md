@@ -35,7 +35,7 @@
     * [Displaying Github Activity Data in Donut Platform](activities/gsoc2020/gsoc2020-ideas/github-bot.md)
     * [Proposal Functionality\(Pledge a research project\) inside Donut](activities/gsoc2020/gsoc2020-ideas/draft-proposal-functionality.md)
     * [Personal Assistant for Donut Platform](activities/gsoc2020/gsoc2020-ideas/draft-bot-for-donut-platform.md)
-    * [Integrations for Donut](activities/gsoc2020/gsoc2020-ideas/draft-url-shortener-for-donut.md)
+    * [Integrations for Donut](activities/gsoc2020/gsoc2020-ideas/donut-integrations.md)
     * [Badge and point allotment API inside Codebadge](activities/gsoc2020/gsoc2020-ideas/badge-and-point-allotment-api.md)
     * [Issue Management API inside Codebadge](activities/gsoc2020/gsoc2020-ideas/issue-management-api.md)
     * [Comment Management API within Codebadge](activities/gsoc2020/gsoc2020-ideas/comment-management-api.md)
