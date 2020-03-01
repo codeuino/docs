@@ -10,7 +10,6 @@
 ## Donut <a id="donut-docs"></a>
 
 * [Donut Documentation](donut-docs/donut-documentation/README.md)
-  * [Donut Database Schema](donut-docs/donut-documentation/donut-database-schema.md)
   * [Donut Frontend](donut-docs/donut-documentation/donut-frontend.md)
   * [Donut Backend](donut-docs/donut-documentation/donut-backend/README.md)
     * [About](donut-docs/donut-documentation/donut-backend/about.md)
@@ -20,6 +19,7 @@
     * [Contributors Guide](donut-docs/donut-documentation/donut-backend/contributors-guide.md)
   * [Donut Design Guidelines](donut-docs/donut-documentation/donut-design-guidelines/README.md)
     * [Brand Visual Guide](donut-docs/donut-documentation/donut-design-guidelines/brand-visual-guide.md)
+  * [Donut Database Schema](donut-docs/donut-documentation/donut-database-schema.md)
 
 ## Codebadge
 
