@@ -10,6 +10,7 @@
 ## Donut <a id="donut-docs"></a>
 
 * [Donut Documentation](donut-docs/donut-documentation/README.md)
+  * [Donut Database Schema](donut-docs/donut-documentation/donut-database-schema.md)
   * [Donut Frontend](donut-docs/donut-documentation/donut-frontend.md)
   * [Donut Backend](donut-docs/donut-documentation/donut-backend/README.md)
     * [About](donut-docs/donut-documentation/donut-backend/about.md)

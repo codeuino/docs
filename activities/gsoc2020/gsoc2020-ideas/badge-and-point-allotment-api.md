@@ -17,6 +17,10 @@ In Codebadge, presently all the badge allotment computation are taking place at 
 * Creating shareable illustrator system which admin can only share with his organization contributors using email/github username.
 * Fetching contribution outside browser without using crone jobs approach which makes the computation speed slower.
 
+{% hint style="warning" %}
+**References:** [**Trello Webhooks**](https://developers.trello.com/page/webhooks) **,** [**Playing with Github Webhooks \| Github**](https://developer.github.com/webhooks/)\*\*\*\*
+{% endhint %}
+
 ### **Required Skills/knowledge:**
 
 * Good knowledge of databases
@@ -28,15 +32,11 @@ In Codebadge, presently all the badge allotment computation are taking place at 
 
 Moderate
 
-#### References
-
-[**Trello Webhooks**](https://developers.trello.com/page/webhooks)
-
 ### Expected Outcome:
 
 This project would result in the improvement in the badge alotment system of Codebadge project which will allow admin to judge the progress of the project in the better way.
 
-### Potential Mentors:-
+### Potential Mentors:
 
 [**Jaskirat Singh**](https://github.com/jaskirat2000) and [**Vaibhav D. Aren**](https://github.com/vaibhavdaren)
 
