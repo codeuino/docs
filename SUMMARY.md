@@ -38,6 +38,7 @@
     * [Personal Assistant for Donut Platform](activities/gsoc2020/gsoc2020-ideas/draft-bot-for-donut-platform.md)
     * [Badge and point allotment API inside Codebadge](activities/gsoc2020/gsoc2020-ideas/badge-and-point-allotment-api.md)
     * [Issues, Pull request and Comment Management API inside Codebadge](activities/gsoc2020/gsoc2020-ideas/issue-management-api.md)
+    * [Virtual Illustration in Codebadge](activities/gsoc2020/gsoc2020-ideas/virtual-illustration-in-codebadge.md)
 * [Google-Summer-Of-Code-2019](activities/google-summer-of-code-2019/README.md)
   * [GSOC-2019-Ideas](activities/google-summer-of-code-2019/gsoc-2019-ideas.md)
 * [GSOC Student-Application-Template](activities/gsoc-student-application-template.md)
