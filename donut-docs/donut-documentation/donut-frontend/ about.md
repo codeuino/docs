@@ -10,16 +10,13 @@ This platform also makes users introduce and develops various solutions in the f
 
 ## Technology Stack
 
- - CSS: Styling web pages, html files
--   Javascript: Primary programing language
--   ReactJS: Javascript library for building User Interfaces
-
+- CSS: Styling web pages, html files
+- Javascript: Primary programing language
+- ReactJS: Javascript library for building User Interfaces
+- Bootstrap: Styling framework.
 
 ## Communication
 
- - Slack -  [Click here to join the codeuino slack channel](slack.codeuino.org)
-
-
-
+- Slack - [Click here to join the codeuino slack channel](slack.codeuino.org)
 
 ​
