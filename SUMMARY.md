@@ -42,5 +42,6 @@
 * [Google-Summer-Of-Code-2019](activities/google-summer-of-code-2019/README.md)
   * [GSOC-2019-Ideas](activities/google-summer-of-code-2019/gsoc-2019-ideas.md)
 * [GSOC Student-Application-Template](activities/gsoc-student-application-template.md)
+* [Google Season of Docs 2020](activities/google-season-of-docs-2020.md)
 * [Rails Girls Summer of Code 2020](activities/rails-girls-summer-of-code-2020.md)
 
