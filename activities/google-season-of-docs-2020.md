@@ -81,5 +81,51 @@ Make sure you get through the **"**[**Mentor Guide**](https://developers.google.
 
 ## **Project Ideas**
 
+### **IDEA 1: Refactoring General Community and DONUT project Docs**
+
+### **Priority:** 
+
+High
+
+### **Description:**
+
+#### This is a long run project and the Technical Writer is required to work on two parts under this section.
+
+**PART 1:**  [**Donut Platform**](https://github.com/codeuino/Social-Platform-Donut) is a flexible open source **Social Network Kit that aims** to give you the customized social network, social intranet or huge social enterprise application for communities that really fits their needs.
+
+Technical Writer is asked to elaborate on each part of the project through documenting the docs for **Front-end**, **Back-end API Docs** and **Design work flow**. 
+
+**Front-end Docs**: You are required to work on the Installation Guide and Configured modules including the Admin Dashboard work flows which can be achieved by the moderators for this platform. Development of configuration mechanism is one of our newest additions to our installation frameworks of Donut Platform. Currently Donut is central hosted but aims to get bundled as FOSS/OSS tool. So, the task of this major project is to draft an **Admin Management System** that will allow individuals or community admins to setup for themselves. To simplify the configuration, these predefined modules will have the most common use cases with different options for modules and settings while setting up this environment. Some examples of modules include: Login/Sign Up Authentications, Real time Notification,etc.
+
+**Back-end Docs:** Server Side includes drafting the docs for the APIs for POST, EVENTS and PROJECTS.
+
+**Design Workflow:** [**Understanding the UI/UX layouts**](https://www.figma.com/file/iZvb7rLYRp3Di3wILVQ7V9/CodeUino-Donut?node-id=0%3A1) and drafting those steps and explanation for various things used within it. Within the design tech writer has to define all the colors, fonts, styles and much necessary things.
+
+**PART 2:** This part contains refactoring the general documentation for the community; explaining the vision and mission, community guidelines, contributor page and FAQ about Community.
+
+**All the Community Docs can be found at** [**docs.codeuino.org**](../codeuino-docs.md)\*\*\*\*
+
+{% hint style="warning" %}
+**References:** [**Open Collective Guide**](https://docs.opencollective.com/help/about/introduction)**,** [**Slack Documentation**](https://slack.com/intl/en-in/help)\*\*\*\*
+{% endhint %}
+
+### **Required Skills/knowledge:**
+
+* Good knowledge of Markdown/writing
+* Brief knowledge of project DONUT
+* UI/UX experience is also required
+
+### **Difficulty Level:** 
+
+Moderate
+
+### **Expected Outcome:** 
+
+This task will have a well formatted documentation that will help users to surf about it easily.
+
+### **Potential Mentors:**
+
+ [**Devesh Verma** ](https://github.com/devesh-verma) and [**Vaibhav D. Aren**](https://github.com/vaibhavdaren)\*\*\*\*
+
 \*\*\*\*
 
