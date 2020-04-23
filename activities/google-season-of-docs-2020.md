@@ -172,7 +172,7 @@ This task will have well-formatted documentation that will help users to surf ab
 
 [**Devesh Verma**](https://github.com/devesh-verma)**,** [**Vaibhav D. Aren**](https://github.com/vaibhavdaren) **and** [**Ayush Nagar**](https://github.com/ayushnagar123)
 
-###  **IDEA** **3:** **Detailed Frontend and Backend docs writing**
+###  **IDEA** **3:** **Detailed Frontend and Backend docs for Codebadge Project**
 
 ### **Priority:**
 
