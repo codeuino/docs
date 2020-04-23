@@ -129,3 +129,86 @@ This task will have a well formatted documentation that will help users to surf 
 
 \*\*\*\*
 
+### **IDEA 2: Writing API docs for codebadge bot and machine learning module for Codebadge project**
+
+###  **Priority:**
+
+High
+
+###  **Description:**
+
+This is a long run project and the Technical Writer is required to work on two parts under this section. CodeBadge is a project which considers official GitHub API and makes a fading badges graph for each organization. It contains two user interaction panels. Admin panel and codebadge bot. Admin panel is admin setup and dashboard section where user can set up the organization account with codebadge once he has installed codebadge bot for the Github organization. The codebadge bot will interact on the Github panel in the comment section of issues and pull request. The user will be updated of the badge updates and also if any comment has been detected inappropriate. The contributors will be allotted points for any kind of contribution to the project and will be assigned badges accordingly. This project will mainly be focused on writing bot related documentation and machine learning documentation.
+
+**Codebadge Bot:** You are required to work on the Installation Guide and Configured the app. You will need to elaborate on what are the event calls the bot will be triggered and how will the point system will work along with the bot in coordination with these requests. There is a need for proper API documentation for each event being handled by the bot. The major requirement to work on this section is to understand what all rules the point are allowed and when will bot trigger to comment on this section.
+
+**Machine Learning Module:** You are required to write docs for machine learning module. All the machine learning API request handled by flask API. There are two separate sections for which module handles ML request:-
+
+1. Github events:- the module analysis lots of events such as comments for hate speech, issue summarization and issue importance analysis.
+
+2. Illustrator events:- Codebadge illustrator events are all image-based machine learning handled requests. 
+
+Requirement:- Basic experience with probot Github app and how Github events work.
+
+**All the Community Docs can be found at docs.codeuino.org**
+
+**References:** [**Open Collective Guide**](https://docs.opencollective.com/help/about/introduction)**,** [**Slack Documentation**](https://slack.com/intl/en-in/help)
+
+###  **Required Skills/knowledge:**
+
+* Good knowledge of Markdown/writing
+* Brief knowledge of project Codebadge
+* experience with machine learning and image processing
+* experience of working with probot
+
+###  **Difficulty Level:**
+
+Moderate
+
+###  **Expected Outcome:**
+
+This task will have well-formatted documentation that will help users to surf about it easily.
+
+###  **Potential Mentors:**
+
+[**Devesh Verma**](https://github.com/devesh-verma)**,** [**Vaibhav D. Aren**](https://github.com/vaibhavdaren) **and** [**Ayush Nagar**](https://github.com/ayushnagar123)
+
+###  **IDEA** **3:** **Detailed Frontend and Backend docs writing**
+
+### **Priority:**
+
+High
+
+### **Description:**
+
+This is a long run project and the Technical Writer is required to work on two parts under this section. CodeBadge is a project which considers official GitHub API and makes a fading badges graph for each organization. It contains two user interaction panels. Admin panel and codebadge bot. Admin panel is admin setup and dashboard section where user can set up the organization account with codebadge once he has installed codebadge bot for the Github organization. The codebadge bot will interact on the Github panel in the comment section of issues and pull request. The user will be updated of the badge updates and also if any comment has been detected inappropriate. The contributors will be allotted points for any kind of contribution to the project and will be assigned badges accordingly. This project will mainly be focused on writing frontend and backend related documentation.
+
+Technical Writer is asked to elaborate on each part of the project through documenting the docs for **Front-end**, **Back-end API Docs** and **Design work flow**.
+
+**Front-end Docs**: You are required to work on the Installation Guide and Configured modules including the Admin Dashboard work flows which can be achieved by the moderators for this platform. Frontend will have two types of login through github views:- 1. Admin view 2. Contributor view. You need to design docs for both the types of login workflow.
+
+**Back-end Docs:** Server Side includes drafting the docs for the APIs for POST, EVENTS and PROJECTS.
+
+**Design Workflow:** [**Understanding the UI/UX layouts**](https://www.figma.com/file/iZvb7rLYRp3Di3wILVQ7V9/CodeUino-Donut?node-id=0%3A1) and drafting those steps and explanation for various things used within it. Within the design tech writer has to define all the colors, fonts, styles and much necessary things.
+
+**All the Community Docs can be found at** [**docs.codeuino.org**](file:///@codeuino/s/documentation/~/drafts/-M5c2vy4h774_aFWfVxW/codeuino-docs)
+
+**References:** [**Open Collective Guide**](https://docs.opencollective.com/help/about/introduction)**,** [**Slack Documentation**](https://slack.com/intl/en-in/help)
+
+### **Required Skills/knowledge:**‌
+
+* Good knowledge of Markdown/writing
+* Brief knowledge of project Codebadge project
+* UI/UX experience is also required
+
+### **Difficulty Level:**
+
+Moderate
+
+### **Expected Outcome:**
+
+This task will have a well formatted documentation that will help users to surf about it easily.
+
+### **Potential Mentors:**
+
+[**Devesh Verma**](https://github.com/devesh-verma)**,** [**Vaibhav D. Aren**](https://github.com/vaibhavdaren) **and** [**Ayush Nagar**](https://github.com/ayushnagar123)\*\*\*\*
+
