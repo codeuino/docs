@@ -3,6 +3,7 @@
 * [About CodeUino](README.md)
 * [CodeUino Docs](codeuino-docs.md)
 * [CodeUino Design](design-guidelines/README.md)
+  * [Meetings Notes](design-guidelines/meetings-notes.md)
   * [Design Workflow](design-guidelines/design-workflow.md)
   * [Contributing to Design](design-guidelines/contributing-to-design.md)
   * [Codeuino Visual Identity](design-guidelines/visual-identity.md)
