@@ -18,7 +18,7 @@ To learn more about this year's event and how GSoC works, please refer to the [*
 
 ## **About Codeuino**
 
-[**Codeuino**](http://www.codeuino.org) is a volunteer-driven non-profit open source Social networking organisation that provides various robust frameworks solutions which could span the entire world through building all kinds of social environments, discussion portals and collaboration platforms, giving prospectus to various other organisations, users and outreachers to use social media in a custom way.
+[**Codeuino**](http://www.codeuino.org) is a volunteer-driven open source Social networking organisation that provides various robust frameworks solutions which could span the entire world through building all kinds of social environments, discussion portals and collaboration platforms, giving prospectus to various other organisations, users and outreachers to use social media in a custom way.
 
 [**DONUT**](https://github.com/codeuino/Social-Platform-Donut) is a major project of [**Codeuino**](http://www.codeuino.org) that builds social networking Kit for various organisations to build up social environment \(like [**Facebook**](http://www.facebook.com)**,**[**Twitter**](http://www.twitter.com),etc\) for their organisation as well as for users to experience FOSS social environment and to showcase their productivity and services for their community along with the collaboration platform to interact with one another. This project stands similar to **"**[**Facebook**](https://facebook.com)**"**, **"**[**Twitter**](https://twitter.com)**"** like social medias.
 
