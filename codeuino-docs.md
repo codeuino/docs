@@ -4,7 +4,7 @@ description: >-
   documentation.
 ---
 
-# CodeUino Docs
+# Codeuino Projects
 
 ## 1. Social Platform Donut
 
