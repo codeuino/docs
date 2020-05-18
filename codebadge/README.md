@@ -1,4 +1,8 @@
-# Codebadge Documentation
+# Codebadge
+
+## About Codebadge
+
+{% page-ref page="about-codebadege.md" %}
 
 ## Codebadge Frontend
 

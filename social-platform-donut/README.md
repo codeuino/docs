@@ -1,4 +1,8 @@
-# Donut Documentation
+# Donut - Social Platform
+
+## About Donut
+
+{% page-ref page="about-donut.md" %}
 
 ## Donut Frontend
 
@@ -11,4 +15,10 @@
 ## Donut Design Guidelines
 
 {% page-ref page="donut-design-guidelines/" %}
+
+## Donut Database Schema
+
+{% page-ref page="donut-database-schema.md" %}
+
+
 

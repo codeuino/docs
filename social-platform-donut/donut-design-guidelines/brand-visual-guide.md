@@ -11,11 +11,11 @@ Donut’s identity is formed by the brandmark, color, typography and composition
 
 **Primary Brandmark**
 
-![](../../../.gitbook/assets/primary-brandmark.jpg)
+![](../../.gitbook/assets/primary-brandmark.jpg)
 
 **Symbol**
 
-![](../../../.gitbook/assets/brandmark.jpg)
+![](../../.gitbook/assets/brandmark.jpg)
 
 
 

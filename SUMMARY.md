@@ -8,25 +8,30 @@
   * [Codeuino Visual Identity](design-guidelines/visual-identity.md)
 * [Meetings Notes](meetings-notes.md)
 
-## Donut <a id="donut-docs"></a>
+## Projects
 
-* [Donut Documentation](donut-docs/donut-documentation/README.md)
-  * [Donut Frontend](donut-docs/donut-documentation/donut-frontend.md)
-  * [Donut Backend](donut-docs/donut-documentation/donut-backend/README.md)
-    * [About](donut-docs/donut-documentation/donut-backend/about.md)
-    * [Installation](donut-docs/donut-documentation/donut-backend/installation.md)
-    * [Client-Side](donut-docs/donut-documentation/donut-backend/client-side.md)
-    * [Server Side](donut-docs/donut-documentation/donut-backend/server-side.md)
-    * [Contributors Guide](donut-docs/donut-documentation/donut-backend/contributors-guide.md)
-  * [Donut Design Guidelines](donut-docs/donut-documentation/donut-design-guidelines/README.md)
-    * [Brand Visual Guide](donut-docs/donut-documentation/donut-design-guidelines/brand-visual-guide.md)
-  * [Donut Database Schema](donut-docs/donut-documentation/donut-database-schema.md)
+* [Donut - Social Platform](social-platform-donut/README.md)
+  * [About Donut](social-platform-donut/about-donut.md)
+  * [Donut Design Guidelines](social-platform-donut/donut-design-guidelines/README.md)
+    * [Brand Visual Guide](social-platform-donut/donut-design-guidelines/brand-visual-guide.md)
+  * [Donut Frontend](social-platform-donut/donut-frontend.md)
+  * [Donut Backend](social-platform-donut/donut-backend/README.md)
+    * [About](social-platform-donut/donut-backend/about.md)
+    * [Installation](social-platform-donut/donut-backend/installation.md)
+    * [Client-Side](social-platform-donut/donut-backend/client-side.md)
+    * [Server Side](social-platform-donut/donut-backend/server-side.md)
+    * [Contributors Guide](social-platform-donut/donut-backend/contributors-guide.md)
+  * [Donut Database Schema](social-platform-donut/donut-database-schema.md)
+* [Codebadge](codebadge/README.md)
+  * [About Codebadege](codebadge/about-codebadege.md)
+  * [Codebadge Frontend](codebadge/codebadge-frontend.md)
+  * [Codebadge Backend](codebadge/codebadge-backend.md)
 
-## Codebadge
+## Internship
 
-* [Codebadge Documentation](codebadge/codebadge-documentation/README.md)
-  * [Codebadge Frontend](codebadge/codebadge-documentation/codebadge-frontend.md)
-  * [Codebadge Backend](codebadge/codebadge-documentation/codebadge-backend.md)
+* [Codeuiners](internship/codeuiners/README.md)
+  * [Ayush Nagar](internship/codeuiners/ayush-nagar.md)
+  * [Devansh Agrawal](internship/codeuiners/devansh-agrawal.md)
 
 ## ACTIVITIES
 
