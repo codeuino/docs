@@ -1,5 +1,7 @@
 ---
-description: 'Short Intro:'
+description: >-
+  Short Intro: I am Ayush Nagar, a pre-final year student at JIIT, Noida. I am
+  Full stack web developer with keen interest in Deep Learning and pyrhon.
 ---
 
 # Ayush Nagar
@@ -12,10 +14,14 @@ description: 'Short Intro:'
 
 ### Project Deliverables:
 
-### Blogs:
+Trello board: [https://trello.com/b/gTvUZSuP/codeuino-internship-program](https://trello.com/b/gTvUZSuP/codeuino-internship-program)
+
+### Blogs: 
 
 {% tabs %}
 {% tab title="Scrum" %}
+Project Report: [https://docs.google.com/document/d/189pmvPWYcc6NBjXh5PUs5LUpgdDYKGnaL0Jty\_4fQ1U/edit?usp=sharing](https://docs.google.com/document/d/189pmvPWYcc6NBjXh5PUs5LUpgdDYKGnaL0Jty_4fQ1U/edit?usp=sharing)
+
 Week 1: [https://docs.google.com/document/d/1ItThcoctC71sKMFqlikqt76je6kqFxVxV\_OKtC4nkMw/edit?usp=sharing](https://docs.google.com/document/d/1ItThcoctC71sKMFqlikqt76je6kqFxVxV_OKtC4nkMw/edit?usp=sharing)
 
 Week 2: [https://docs.google.com/document/d/1iFlUWJ12dvPaFx-1IuVOaP4ulMLkOd7UuE-azlmxBBk/edit?usp=sharing](https://docs.google.com/document/d/1iFlUWJ12dvPaFx-1IuVOaP4ulMLkOd7UuE-azlmxBBk/edit?usp=sharing)
