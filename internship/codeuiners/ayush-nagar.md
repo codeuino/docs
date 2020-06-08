@@ -32,6 +32,12 @@ Week 3: [https://medium.com/@an431999/summer-intern-under-codeuino-week-3-june-1
 
 Codebadge: revamp: [https://medium.com/@an431999/codebagde-project-revamp-480944797c4b](https://medium.com/@an431999/codebagde-project-revamp-480944797c4b)
 {% endtab %}
+
+{% tab title="Screen Recordings" %}
+Week 2: [https://drive.google.com/file/d/1Q-SnGvOpvg3CR3fwYUD\_QCw\_LGfPhEiL/view?usp=sharing](https://drive.google.com/file/d/1Q-SnGvOpvg3CR3fwYUD_QCw_LGfPhEiL/view?usp=sharing)
+
+Week 3: [https://drive.google.com/file/d/1I3qGWsjpr3KbP8JqZjSSa5\_TjewubSAC/view](https://drive.google.com/file/d/1I3qGWsjpr3KbP8JqZjSSa5_TjewubSAC/view)
+{% endtab %}
 {% endtabs %}
 
 
