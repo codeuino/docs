@@ -12,6 +12,7 @@
 * **GSoC Meet-8:** [**28-05-2020**](https://docs.google.com/document/d/1c5q77mP2vPMeKP67J-dWOduIJs1MYLSumXmM-8CkgXs/edit?usp=sharing)\*\*\*\*
 * **GSoC Meet-9:** [**01-06-2020**](https://docs.google.com/document/d/1dxaz6Uq__6uekD62F8PfMPTiXPbVwO34Vof3wJ_liBQ/edit?usp=sharing)\*\*\*\*
 * **GSoC Meet-10:** [**04-06-2020**](https://docs.google.com/document/d/1na6X4TI4uW9N4jgQlx6O1TcskXmmYUEni9Dv8bjAFJk/edit?usp=sharing)\*\*\*\*
+* **GSoC Meet-11:** [**08-06-2020**](https://docs.google.com/document/d/1hwwESyy8Fd-w-CuhtXa3fLrjBkWgYp5NOUYohzrpWbo/edit?usp=sharing)\*\*\*\*
 
 
 
