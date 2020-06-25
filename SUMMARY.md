@@ -10,6 +10,8 @@
 
 ## Projects
 
+---
+
 * [Donut - Social Platform](social-platform-donut/README.md)
   * [About Donut](social-platform-donut/about-donut.md)
   * [Donut Design Guidelines](social-platform-donut/donut-design-guidelines/README.md)
