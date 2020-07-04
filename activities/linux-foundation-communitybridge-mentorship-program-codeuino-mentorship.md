@@ -40,6 +40,10 @@ Following are the core goals of the Mentorship Program:
 **NOTE:** **In order to apply to the "Codeuino Mentorship" program you should** [**submit your application on this portal**](https://people.communitybridge.org/project/7deb8e48-6797-4115-bb96-9cf4ccee022e)\*\*\*\*
 {% endhint %}
 
+{% hint style="info" %}
+**NOTE: Just to let you know that for Term Summer 2020, we  just planned to accept only 2 mentees under the Codeuino Mentorship program.**
+{% endhint %}
+
 ### Eligibility Rules for Mentees <a id="Mentees-EligibilityRules"></a>
 
 The following eligibility rules apply to program applicants. You must:
