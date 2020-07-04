@@ -52,8 +52,5 @@
 * [GSOC Student-Application-Template](activities/gsoc-student-application-template.md)
 * [Google Season of Docs 2020](activities/google-season-of-docs-2020.md)
 * [Rails Girls Summer of Code 2020](activities/rails-girls-summer-of-code-2020.md)
-
----
-
-* [Linux Foundation CommunityBridge Mentorship Program - Codeuino Mentorship](linux-foundation-communitybridge-mentorship-program-codeuino-mentorship.md)
+* [Linux Foundation CommunityBridge Mentorship Program - Codeuino Mentorship](activities/linux-foundation-communitybridge-mentorship-program-codeuino-mentorship.md)
 
