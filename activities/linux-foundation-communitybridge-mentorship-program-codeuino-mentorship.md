@@ -8,7 +8,7 @@ description: >-
 
 ### CommunityBridge by The Linux Foundation
 
-[Community Bridge](https://communitybridge.org/) is a platform developed by **The Linux Foundation**, which accelerates the adoption, innovation, and sustainability of open-source software.
+[**Community Bridge**](https://communitybridge.org/) is a platform developed by **The Linux Foundation**, which accelerates the adoption, innovation, and sustainability of open-source software.
 
 Community Bridge is actively used by the Codeuino as a mentorship platform across its projects and can be found with the name "[**Codeuino Mentorship**](https://people.communitybridge.org/project/7deb8e48-6797-4115-bb96-9cf4ccee022e)" on the CommunityBridge Platform.
 
@@ -86,5 +86,9 @@ The CommunityBridge Mentorship program is a 12-week full-time program. There wil
 
 {% hint style="info" %}
 **Feel free to join Codeuino's communication channel at** [**slack.codeuino.org**](https://slack.codeuino.org) **for any queries and discussions.**
+{% endhint %}
+
+{% hint style="warning" %}
+**Do not forget to read** [**Mentees Guide by The Linux Foundation**](https://docs.linuxfoundation.org/docs/communitybridge/communitybridge-mentorship/mentee-guide)\*\*\*\*
 {% endhint %}
 
