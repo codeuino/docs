@@ -92,3 +92,7 @@ The CommunityBridge Mentorship program is a 12-week full-time program. There wil
 **Do not forget to read** [**Mentees Guide by The Linux Foundation**](https://docs.linuxfoundation.org/docs/communitybridge/communitybridge-mentorship/mentee-guide)\*\*\*\*
 {% endhint %}
 
+{% hint style="success" %}
+Citing the source of this documentation:[ **CommunityBridge Documentation by The Linux Foundation**](https://docs.linuxfoundation.org/docs/communitybridge)\*\*\*\*
+{% endhint %}
+
