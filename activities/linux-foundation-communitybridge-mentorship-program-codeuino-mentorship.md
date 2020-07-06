@@ -76,6 +76,29 @@ The CommunityBridge Mentorship program is a 12-week full-time program. There wil
 5. **Stipend:** Payments happen after completion of each evaluation time. Stipends are released if your evaluation report shows satisfactory progress of your mentorship training. The total stipend amount is paid phase-wise after each evaluation, and the stipend amount for each evaluation varies from project to project. 
 6. **Letter of Completion:** If you successfully finish the program by completing all your project milestones, deliverables, and assigned tasks, which may include an exam, you will also be asked to write and publish a blog to receive a digital Letter of Completion at the end of the program. Hurray! You graduated. **Note:** Get in touch with your Program Manager or Mentor to help you with writing and publishing a blog.
 
+### What is the Mentorship Stipend?
+
+A stipend is a periodic payment for your participation as a mentee in the Mentorship program. A stipend and other incentives support and encourage mentees to participate. Funding for stipends and other perks is determined solely by each project. After you complete the prerequisite qualifications and are accepted to the program, you become eligible to receive a stipend.
+
+**How much stipend amount will I receive?**
+
+Stipend [**amounts**](https://docs.linuxfoundation.org/docs/communitybridge/communitybridge-mentorship/mentee-stipends/total-stipend-amount) are calculated based on your location.
+
+**How is my location determined?**
+
+Your location is determined by where you currently reside, that is the country of current residence. If you are enrolled at an online institution or are a recent graduate, your stipend is determined by the location of your permanent residence.
+
+**How are the stipend amounts determined?**
+
+We are using a Purchasing Power Parity \(PPP\) based calculation to determine the stipend. We start with a base amount of 6000 USD and then adjust it based on each country's PPP value. There is a minimum \(3000 USD\) and maximum \(6600 USD\) stipend amount. The base amount takes into consideration the fact that many universities are in urban centers which can be more expensive than other parts of the country.
+
+**What is Purchasing Power Parity? \(PPP\)**
+
+Purchasing Power Parity is a way to estimate the exchange rate between two currencies to determine equivalent purchasing power. For details, refer the following links:
+
+* [**Wikipedia: Purchasing Power Parity**](https://en.wikipedia.org/wiki/Purchasing_power_parity)\*\*\*\*
+* [**World Bank: What is Purchasing Power Parity?**](http://pubdocs.worldbank.org/en/332341517441011666/PPP-brochure-2017-webformat-rev.pdf)\*\*\*\*
+
 ### Codeuino Mentorship Program Coordinators
 
 #### Program Administrator
