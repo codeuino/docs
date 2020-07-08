@@ -62,7 +62,7 @@ The CommunityBridge Mentorship program is a 12-week full-time program. There wil
 
 | Time Period | Purpose |
 | :---: | :---: |
-| **July 1, 2020 - July 20, 2020** | Mentees submit applications |
+| **July 1, 2020 - July 15, 2020** | Mentees submit applications |
 | **July 25, 2020** | Mentees are announced |
 | **August 1, 2020** | The official coding period starts |
 | **October 31, 2020** | Coding period ends |
