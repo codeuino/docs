@@ -21,6 +21,7 @@
 * **GSoC Meet-17:** [**29-06-2020**](https://docs.google.com/document/d/1WBUVmVzUvlIMW5Kn09Uh0t5n1b9fc46Yd7okOsWHiOE/edit?usp=sharing)\*\*\*\*
 * **GSoC Meet-18:**  [**02-07-2020**](https://docs.google.com/document/d/1HKTXUKwvNYg6t5z96ffFZlltOSc417PDo_cRca6qT9k/edit?usp=sharing)\*\*\*\*
 * **GSoC Meet-19:** [**06-07-2020**](https://docs.google.com/document/d/1LcKbd-XbJZn60dj5gOJm84DP_fvpMKg9-mXz33w5ye8/edit?usp=sharing)\*\*\*\*
+* **GSoC Meet-20:** [**13-07-2020**](https://docs.google.com/document/d/1Au-sFHYQBYdK5WDCjHJmrSTC86DyE4rv4UPyG0ROJ2Y/edit?usp=sharing)\*\*\*\*
 
 
 
