@@ -5,6 +5,8 @@
 * [CodeUino Design](design-guidelines/README.md)
   * [Design Workflow](design-guidelines/design-workflow.md)
   * [Contributing to Design](design-guidelines/contributing-to-design.md)
+  * [Product Research Workflow](design-guidelines/product-research-workflow.md)
+  * [Contributing to Product Research](design-guidelines/contributing-to-product-research.md)
   * [Codeuino Visual Identity](design-guidelines/visual-identity.md)
 * [Meetings Notes](meetings-notes.md)
 
