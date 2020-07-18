@@ -15,6 +15,7 @@
 ---
 
 * [Donut - Social Platform](social-platform-donut/README.md)
+  * [Ideas](social-platform-donut/ideas.md)
   * [About Donut](social-platform-donut/about-donut.md)
   * [Donut Design Guidelines](social-platform-donut/donut-design-guidelines/README.md)
     * [Brand Visual Guide](social-platform-donut/donut-design-guidelines/brand-visual-guide.md)
