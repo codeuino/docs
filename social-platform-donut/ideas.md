@@ -16,8 +16,9 @@ DONUT:
 * [ ] Deploying Donut just like Discourse
 * [ ] API status page ex: [https://www.githubstatus.com/](https://www.githubstatus.com/)
 * [ ] WIKI page in Donut
-* [ ] BOTs - Poll, 
-
+* [ ] BOTs - Poll, announcements, praising, welcome
+* [ ] Making a support Ticket in order to talk to admins and between other communities memebers
+* [ ] 
 FORUM:
 
 * [ ] Making Donut responsive on majority platforms\(mobile/tables/desktop\)
