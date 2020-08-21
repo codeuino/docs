@@ -2,6 +2,7 @@
 
 * [About CodeUino](README.md)
 * [Our Values](our-values.md)
+* [Community Guidelines](community-guidelines.md)
 * [Codeuino Projects](codeuino-docs.md)
 * [CodeUino Design](design-guidelines/README.md)
   * [Design Workflow](design-guidelines/design-workflow.md)
