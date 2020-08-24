@@ -40,3 +40,7 @@ When information is not public, it may also be treated as limited access, only s
 
  Diversity, inclusion, and belonging are fundamental to the success of the Codeuino  community. We aim to make a significant impact on our efforts to foster an environment where everyone can thrive. We have designed a multidimensional approach to ensure that Codeuino community is a place where people from every background and circumstance feel like they belong and can contribute. We actively chose to build and institutionalize a culture that is inclusive and supports all team members equally in the process of achieving their professional goals. We have people participating in our community calls globally and we encourage participation in a diverse set of countries. We work to make everyone feel welcome and to increase the participation of underrepresented minorities and nationalities in our community and company.
 
+### Consistency:
+
+Being consistent with our day job helps us to stay motivated and encouraged. We are consistent with maintaining and building the open source sustainabile and social networking prducts tt 
+
