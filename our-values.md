@@ -42,5 +42,5 @@ When information is not public, it may also be treated as limited access, only s
 
 ### Consistency:
 
-Being consistent with our day job helps us to stay motivated and encouraged. We are consistent with maintaining and building the open source sustainabile and social networking prducts tt 
+Being consistent with our day job helps us to stay motivated and encouraged. We are consistent with maintaining and building the open source sustainable and social networking products that helps other external project and communities to use it a better way.
 
