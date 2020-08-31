@@ -3,6 +3,7 @@
 * [About CodeUino](README.md)
 * [Our Values](our-values.md)
 * [Community Guidelines](community-guidelines.md)
+* [Role and Responsibilities](role-and-responsibilities.md)
 * [Codeuino Projects](codeuino-docs.md)
 * [CodeUino Design](design-guidelines/README.md)
   * [Design Workflow](design-guidelines/design-workflow.md)
@@ -58,8 +59,4 @@
 * [Google Season of Docs 2020](activities/google-season-of-docs-2020.md)
 * [Rails Girls Summer of Code 2020](activities/rails-girls-summer-of-code-2020.md)
 * [Linux Foundation CommunityBridge Mentorship Program - Codeuino Mentorship](activities/linux-foundation-communitybridge-mentorship-program-codeuino-mentorship.md)
-
----
-
-* [Role and Responsibilities](role-and-responsibilities.md)
 
