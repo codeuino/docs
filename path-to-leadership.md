@@ -24,3 +24,12 @@ Maintainers are members of the repository's Write Access Team\(s\), and exercise
 * Follow best practices while writing code, and unit tests
 * Attend meetings
 
+**Requirements for being the Documentation Maintainers**
+
+Documentation Maintainers are responsible for prepare instruction manuals and articles with the main goal to communicate complex, technical information more easily. They also develop, gather, and disseminate technical information among customers, designers, and manufacturers.
+
+* Good writing and communication skills in English
+*  Analyze functional and technical specifications of projects
+* Holds critical thinking and problem-solving skills
+* Has contributed previously towards the documentation
+
