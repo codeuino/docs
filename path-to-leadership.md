@@ -33,3 +33,16 @@ Documentation Maintainers are responsible for prepare instruction manuals and ar
 * Holds critical thinking and problem-solving skills
 * Has contributed previously towards the documentation
 
+#### Requirements for being the Board of Director position
+
+ A **board of directors** is a group of people who jointly supervise the activities of an organization
+
+* Consistent contributor towards the Codeuino community
+* Proven industry experience in a similar managerial position
+* Holds good communication skills 
+* Has produced valuable content within the community in the past
+* Holds a good knowledge of strategic and problem thinking
+* Regular with the community meetings
+* Responsive in terms of providing feedback, suggestions, new strategic ideas and helping other community people
+* Holds the knowledge of performance evaluation and decision-taking
+
