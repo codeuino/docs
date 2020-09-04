@@ -37,3 +37,7 @@
 * **GSoC Meet-33:**[ **27-08-2020**](https://docs.google.com/document/d/1Px6s3PqF_rE816JE3E-m69H4_7FtT6ujxAh9k8UkTGw/edit?usp=sharing)\*\*\*\*
 * **GSoC Meet-34:** [**31-08-2020**](https://docs.google.com/document/d/1pUy59QsUuYerAX3MWUJW1LxSeTGR6YGpc6WsAjND8u4/edit?usp=sharing)\*\*\*\*
 
+**Linux Foundation CommunityBridge Mentorship Program Meetings:**
+
+**LF Meet-1:** [**03-09-2020**](https://docs.google.com/document/d/1pUy59QsUuYerAX3MWUJW1LxSeTGR6YGpc6WsAjND8u4/edit?usp=sharing)\*\*\*\*
+
