@@ -16,25 +16,23 @@
 
 ## Projects
 
----
-
-* [Donut - Social Platform](social-platform-donut/README.md)
-  * [Ideas](social-platform-donut/ideas.md)
-  * [About Donut](social-platform-donut/about-donut.md)
-  * [Donut Design Guidelines](social-platform-donut/donut-design-guidelines/README.md)
-    * [Brand Visual Guide](social-platform-donut/donut-design-guidelines/brand-visual-guide.md)
-  * [Donut Frontend](social-platform-donut/donut-frontend.md)
-  * [Donut Backend](social-platform-donut/donut-backend/README.md)
-    * [About](social-platform-donut/donut-backend/about.md)
-    * [Installation](social-platform-donut/donut-backend/installation.md)
-    * [Client-Side](social-platform-donut/donut-backend/client-side.md)
-    * [Server Side](social-platform-donut/donut-backend/server-side.md)
-    * [Contributors Guide](social-platform-donut/donut-backend/contributors-guide.md)
-  * [Donut Database Schema](social-platform-donut/donut-database-schema.md)
-* [Codebadge](codebadge/README.md)
-  * [About Codebadege](codebadge/about-codebadege.md)
-  * [Codebadge Frontend](codebadge/codebadge-frontend.md)
-  * [Codebadge Backend](codebadge/codebadge-backend.md)
+* [Donut - Social Platform](projects/social-platform-donut/README.md)
+  * [Ideas](projects/social-platform-donut/ideas.md)
+  * [About Donut](projects/social-platform-donut/about-donut.md)
+  * [Donut Design Guidelines](projects/social-platform-donut/donut-design-guidelines/README.md)
+    * [Brand Visual Guide](projects/social-platform-donut/donut-design-guidelines/brand-visual-guide.md)
+  * [Donut Frontend](projects/social-platform-donut/donut-frontend.md)
+  * [Donut Backend](projects/social-platform-donut/donut-backend/README.md)
+    * [About](projects/social-platform-donut/donut-backend/about.md)
+    * [Installation](projects/social-platform-donut/donut-backend/installation.md)
+    * [Client-Side](projects/social-platform-donut/donut-backend/client-side.md)
+    * [Server Side](projects/social-platform-donut/donut-backend/server-side.md)
+    * [Contributors Guide](projects/social-platform-donut/donut-backend/contributors-guide.md)
+  * [Donut Database Schema](projects/social-platform-donut/donut-database-schema.md)
+* [Codebadge](projects/codebadge/README.md)
+  * [About Codebadege](projects/codebadge/about-codebadege.md)
+  * [Codebadge Frontend](projects/codebadge/codebadge-frontend.md)
+  * [Codebadge Backend](projects/codebadge/codebadge-backend.md)
 
 ## Internship
 

@@ -8,9 +8,9 @@ description: >-
 
 ## 1. Social Platform Donut
 
-{% page-ref page="social-platform-donut/" %}
+{% page-ref page="projects/social-platform-donut/" %}
 
 ## 2. Codebadge
 
-{% page-ref page="codebadge/" %}
+{% page-ref page="projects/codebadge/" %}
 

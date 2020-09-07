@@ -39,5 +39,8 @@
 
 **Linux Foundation CommunityBridge Mentorship Program Meetings:**
 
-**LF Meet-1:** [**03-09-2020**](https://docs.google.com/document/d/1pUy59QsUuYerAX3MWUJW1LxSeTGR6YGpc6WsAjND8u4/edit?usp=sharing)\*\*\*\*
+* **LF Meet-1:** [**03-09-2020**](https://docs.google.com/document/d/1pUy59QsUuYerAX3MWUJW1LxSeTGR6YGpc6WsAjND8u4/edit?usp=sharing)\*\*\*\*
+* **LF Meet-2:** [**07-09-2020**](https://docs.google.com/document/d/1wjBkBwsxtHV1D626EKz3OnKb1snD0EtW4yVqIAjdACY/edit?usp=sharing)\*\*\*\*
+
+
 
