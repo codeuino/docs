@@ -32,3 +32,7 @@ You'll need to have some basic programming experience with the technologies and 
 
 The Codeuino takes into the house of development of the 3 social networking projects and they have been divided into the following ways:
 
+* **Donut - Social Media Platform**
+  * \*\*\*\*[**codeuino / social-platform-donut-frontend**](https://github.com/codeuino/social-platform-donut-frontend) **-** This repository contains the frontend part of the donut platform.
+  * \*\*\*\*[**codeuino / social-platform-donut-backend**](https://github.com/codeuino/social-platform-donut-backend) - This repository contains the backend part of the donut platform.
+
