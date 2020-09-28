@@ -28,3 +28,7 @@ You'll need to have some basic programming experience with the technologies and 
     * [When, how and why to use Node.js](https://www.netguru.com/blog/use-node-js-backend)
     * [Differences between Javascript and Node.js](https://www.educba.com/javascript-vs-node-js/) 
 
+## Codeuino's Project Structure
+
+The Codeuino takes into the house of development of the 3 social networking projects and they have been divided into the following ways:
+
