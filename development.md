@@ -35,4 +35,7 @@ The Codeuino takes into the house of development of the 3 social networking proj
 * **Donut - Social Media Platform**
   * \*\*\*\*[**codeuino / social-platform-donut-frontend**](https://github.com/codeuino/social-platform-donut-frontend) **-** This repository contains the frontend part of the donut platform.
   * \*\*\*\*[**codeuino / social-platform-donut-backend**](https://github.com/codeuino/social-platform-donut-backend) - This repository contains the backend part of the donut platform.
+* **Spansberry - Community-Oriented Discussion Platform**
+  * \*\*\*\*[**codeuino / community-forum-backend**](https://github.com/codeuino/community-forum-backend) **-** This repository contains the backend part of the Spansberry platform.
+  * \*\*\*\*[**codeuino / community-forum-frontend**](https://github.com/codeuino/community-forum-frontend) - This repository contains the frontend part of the Spansberry platform.
 
