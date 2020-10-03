@@ -6,7 +6,7 @@ You'll need to have some basic programming experience with the technologies and 
 
 ### Tools
 
-* **Git & Github** - Clone, commit and open a PR using Git and GitHub. Check out the following tutorials:
+* **Git & GitHub** - Clone, commit and open a PR using Git and GitHub. Check out the following tutorials:
 
   * [Introduction to git](https://www.freecodecamp.org/news/what-is-git-and-how-to-use-it-c341b049ae61/)
   * [Introduction to GitHub](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
@@ -15,18 +15,35 @@ You'll need to have some basic programming experience with the technologies and 
   * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
   * [Markdown Tutorial](https://www.markdowntutorial.com/)\*\*\*\*
 
-### Languages and Frameworks
+### Tech Stack
 
-* **JavaScript/Node.js** - We recommend having basic experience working with Node as many projects within the Codeuino has been written in the Nodejs frameworks \(Frontend & Backend\). Check out these free JavaScript & Node tutorials:
-  * Javascript
-    * [Introduction to basic principles of Javascript](https://eloquentjavascript.net/)
-    * [Introduction to Javascript - w/ Advanced concepts](https://javascript.info/)
-    * [An interactive Javascript tutorial](https://www.learn-js.org/)
-  * Node.js
-    * [Quick introduction to Node.js](https://www.tutorialspoint.com/nodejs/nodejs_quick_guide)
-    * [Introduction to Node.js - w/ quizzes](https://www.tutorialsteacher.com/nodejs/nodejs-tutorials)
-    * [When, how and why to use Node.js](https://www.netguru.com/blog/use-node-js-backend)
-    * [Differences between Javascript and Node.js](https://www.educba.com/javascript-vs-node-js/) 
+Projects under the Codeuino Community are primarily **JavaScript** based and leverage several frameworks and libraries. In all of the projects, **React** is used on the frontend and the backend is written in **Node.js** with **Express** framework. **MongoDB** and **Redis** are used for persistent and in-memory storage respectively. **Socket.IO** is used for notifications using WebSockets. Some projects also use GraphQL. Apart from these various npm packages are used in different projects.
+
+We recommend having good understanding of JavaScript basics like Promises, Async/await, ES6 etc and at least some experience working with Node/Express, React and MongoDB to get started. Check out these free resources to sharpen your tech skills:
+
+* JavaScript
+  * [Introduction to basic principles of JavaScript](https://eloquentjavascript.net/)
+  * [Introduction to JavaScript - w/ Advanced concepts](https://javascript.info/)
+  * [An interactive JavaScript tutorial](https://www.learn-js.org/)
+* React
+  * [React Official docs and tutorials](https://reactjs.org/docs/getting-started.html)
+  * [React Router Official docs](https://reactrouter.com/web/guides/quick-start)
+* Node.js / Express.js
+  * [Quick introduction to Node.js](https://www.tutorialspoint.com/nodejs/nodejs_quick_guide)
+  * [Introduction to Node.js - w/ quizzes](https://www.tutorialsteacher.com/nodejs/nodejs-tutorials)
+  * [When, how and why to use Node.js](https://www.netguru.com/blog/use-node-js-backend)
+  * [Differences between JavaScript and Node.js](https://www.educba.com/javascript-vs-node-js/)
+  * [ExpressJS official guides and API reference](http://expressjs.com/en/4x/api.html)
+  * [Learn ExpressJS - Tutorial](https://www.tutorialspoint.com/expressjs/index.htm)
+* Socket.IO
+  * [Socket.IO Official docs](https://socket.io/docs/)
+  * [Learn Socket.IO - tutorial](https://www.tutorialspoint.com/socket.io/index.htm)
+* MongoDB
+  * [The MongoDB Manual - Official MongoDB documentation](https://docs.mongodb.com/manual/)
+  * [Mongoose - Official documentation](https://mongoosejs.com/docs/index.html)
+* Redis
+  * [Redis Official documentation](https://redis.io/documentation)
+  * [Learn Redis - Tutorial](https://www.tutorialspoint.com/redis/index.htm)
 
 ## Codeuino's Project Structure
 
