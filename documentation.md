@@ -27,3 +27,5 @@ In general, there are two main types of contributions:
 **Source Citation:** [https://wiki.accesstomemory.org/wiki/Resources/Documentation/Contribution\_guidelines](https://wiki.accesstomemory.org/wiki/Resources/Documentation/Contribution_guidelines) under "Before Contributing" headline
 {% endhint %}
 
+**Once you have read the "Before Contributing" section make sure you jump into the "Working with Changes" section**
+
