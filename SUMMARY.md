@@ -63,5 +63,6 @@
 
 * [Development](development/README.md)
   * [Contribution Worklfow](development/contribution-worklfow.md)
-* [Documentation](documentation.md)
+* [Documentation](documentation/README.md)
+  * [Working with Changes](documentation/working-with-changes.md)
 
