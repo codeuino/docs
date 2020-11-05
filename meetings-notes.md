@@ -54,6 +54,8 @@
 * **LF Meet-13:** [**22-10-2020**](https://docs.google.com/document/d/1dEq12dL1XyCjFwUpkl2DvStcyxTcfaJFExAoEf-uvaI/edit?usp=sharing)\*\*\*\*
 * **LF Meet-14:** [**26-10-2020**](https://docs.google.com/document/d/1H7Z__TSAVegORNP6i1ZN90zJZCTHngXuv9R7Rw9airw/edit?usp=sharing)\*\*\*\*
 * **LF Meet-15:** [**29-10-2020**](https://docs.google.com/document/d/10O7pNeri97CHZPSRkgWaHgXDsyGknvb7pJHCSGdWUPU/edit?usp=sharing)\*\*\*\*
+* **LF Meet-16:** [**02-11-2020**](https://docs.google.com/document/d/1BoBIVTZU3FOqV8oYsbUnV9PMfBysDar_yjtwPp-Ygmk/edit?usp=sharing)\*\*\*\*
+* **LF Meet-17:** [**05-11-2020**](https://docs.google.com/document/d/1UsmpqAcXEdJT-sxFhPyR_WeZAfnNw3DrNtnmY0bOSN0/edit?usp=sharing)\*\*\*\*
 
 
 
