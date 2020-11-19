@@ -58,6 +58,7 @@
 * **LF Meet-17:** [**05-11-2020**](https://docs.google.com/document/d/1UsmpqAcXEdJT-sxFhPyR_WeZAfnNw3DrNtnmY0bOSN0/edit?usp=sharing)\*\*\*\*
 * **LF Meet-18:** [**09-11-2020**](https://docs.google.com/document/d/1UsmpqAcXEdJT-sxFhPyR_WeZAfnNw3DrNtnmY0bOSN0/edit?usp=sharing)\*\*\*\*
 * **LF Meet-19:**
+* **LF Meet-20: 19-11-2020**
 
 
 
