@@ -13,9 +13,9 @@ Students can connect with the Org Admins, Mentors, and other community members t
 
 All tasks on this page already indicate mentors for the task. New tasks on this page should be added only by those with the experience and time to invest in mentoring new developers.
 
-**Make sure to Check out** **Google Summer of Code 2021** **to know more about community participation in GSoC 2020.**
+**Make sure to Check out** [**Google Summer of Code 2021**](https://docs.codeuino.org/documentation/activities/google-summer-of-code-2021) **to know more about community participation in GSoC 2021.**
 
 ## **IDEA LIST FOR GSoC 2020** <a id="idea-list-for-gsoc-2020"></a>
 
-### Codebadege GSoC Ideas: <a id="codebadege-gsoc-ideas"></a>
+
 
