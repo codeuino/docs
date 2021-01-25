@@ -4,7 +4,7 @@
 
 Students can connect with the Org Admins, Mentors, and other community members through various communication channels given below:
 
-* **Email:** [**Jaskirat Singh**](mailto:juskirat2000@gmail.com) and **Siddharth Simharaju** **\(Org Admins\)**  
+* **Email:** **Jaskirat Singh** and **Siddharth Simharaju** **\(Org Admins\)**  
 
 
   Students and Mentors can join the slack discussion portal in order to carry discussions about their projects and interaction within the community.  
@@ -15,7 +15,7 @@ All tasks on this page already indicate mentors for the task. New tasks on this 
 
 **Make sure to Check out** [**Google Summer of Code 2021**](https://docs.codeuino.org/documentation/activities/google-summer-of-code-2021) **to know more about community participation in GSoC 2021.**
 
-## **IDEA LIST FOR GSoC 2020** <a id="idea-list-for-gsoc-2020"></a>
+## **GSoC Ideas** <a id="idea-list-for-gsoc-2020"></a>
 
 
 
