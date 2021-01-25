@@ -42,6 +42,8 @@
 
 ## ACTIVITIES
 
+* [Google-Summer-Of-Code-2021](activities/google-summer-of-code-2021/README.md)
+  * [GSoC 2021 Idea Page](activities/google-summer-of-code-2021/gsoc-2020-idea-page.md)
 * [Google-Summer-Of-Code-2020](activities/gsoc2020/README.md)
   * [GSoC 2020 Idea Page](activities/gsoc2020/gsoc2020-ideas/README.md)
     * [Development of Admin Management mechanism for DONUT](activities/gsoc2020/gsoc2020-ideas/role-management.md)
