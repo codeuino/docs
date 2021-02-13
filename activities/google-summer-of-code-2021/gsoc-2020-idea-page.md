@@ -15,7 +15,31 @@ All tasks on this page already indicate mentors for the task. New tasks on this 
 
 **Make sure to Check out** [**Google Summer of Code 2021**](https://docs.codeuino.org/documentation/activities/google-summer-of-code-2021) **to know more about community participation in GSoC 2021.**
 
-## **GSoC Ideas** <a id="idea-list-for-gsoc-2020"></a>
+## **IDEA 1: Refactoring and Improving Donut Platform Interaction**
+
+### **Priority:**
+
+High
+
+### Description:
+
+Donut is an open-source, feature-rich, highly flexible and privacy-friendly, social networking platform built for community-oriented collaboration in a customized way. It has been transitioning from development to a production phase, with a vision to have better scalability but it is required to evaluate through various testing, documentation and elimination of all major level bugs which will allow an essential impetus to provide custom and friendly rich widgets and an expansive library of modules to make communication and collaboration easy and successful. So, it is required to refactor the whole existing codebase in order to build the powerful module system along with adding some minor features.
+
+Few major directed points that need to be accomplished are:
+
+* Maintaining design consistency across the whole application
+
+
+
+
+
+̆̈Donut 
+
+
+
+Description of major tasks have been described below :
+
+
 
 
 
