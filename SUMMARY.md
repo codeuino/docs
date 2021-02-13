@@ -16,6 +16,7 @@
 
 ## Projects
 
+* [Donut - Social Networking Platform](https://docs.codeuino.org/donut-social-networking-platform/)
 * [Donut - Social Platform](projects/social-platform-donut/README.md)
   * [Ideas](projects/social-platform-donut/ideas.md)
   * [About Donut](projects/social-platform-donut/about-donut.md)
