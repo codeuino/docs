@@ -37,6 +37,7 @@ Few major directed points that need to be accomplished are:
 * Maintaining design consistency across the whole application
 * **Bug triaging** and **resolving** all pending bugs on backend and frontend repositories
 * Writing unit test cases
+* Making platform responsive
 * Feature Addition: Implementation of the dark theme across the whole platform
 * Deployment of Application:
   * Optimize build using Browserify/Webpack
