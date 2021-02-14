@@ -105,10 +105,25 @@ Donut Platform is a highly flexible open**-**source Social Network Kit that aims
 Major tasks in the project are :
 
 * Creation of cross-platform Application.
+  * Setting up of sample application
+  * Going through the UI/UX Designs on Figma and maintaining the design consistency across the application
 * Development of designed screens for different personas.
+  * Signup/ Login Screen for normal users and admins, used for authentication. Also maintaining the external Google and Github OAuth.
+  * Feed Screen: Used to fetch latest posts on a timeline 
+  * Side nav bar: Contains links to all screens
+  * User Profile Screen: Screen to show a user’s profile on the platform
+  * Edit Profile: To able to edit a user’s profile contents
+  * Insights Screen: Showcasing all the insights of a user which is seen from the web
+  * New Posts, Projects, and Events: Screens to create new posts, projects, and events that can be posted on Donut 
 * Implementation of Push Notifications
-* Adding location-based services to donut.
+* Adding location-based services to Donut.
 * Deployment of the application.
+
+
+
+
+
+
 
 
 
