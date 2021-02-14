@@ -84,6 +84,67 @@ After the completion of this project, Donut will be able to transit towards the 
 
 ### Potential Mentors
 
+
+
+
+
+
+
+## **IDEA 2: Cross-Platform Hybrid Mobile Application for Donut**
+
+\*\*\*\*
+
+### **Priority:**
+
+High
+
+### Description:
+
+Donut Platform is a highly flexible open**-**source Social Network Kit that aims to give you the customized social network, social intranet, or huge social enterprise application for communities that really fits their needs. Its frontend is made in React.JS and the backend is written in Node.JS. 
+
+Major tasks in the project are :
+
+* Creation of cross-platform Application.
+* Development of designed screens for different personas.
+* Implementation of Push Notifications
+* Adding location-based services to donut.
+* Deployment of the application.
+
+
+
+#### Steps to get started:
+
+* Gain a good understanding of React Native, React, and mobile application development.
+* Setup Donut and explore its different features, find bugs and open issues.
+* Get involved in the community and contribute to our code, fix bugs, or propose new features.
+* Implementation of sample mobile applications implementing existing donut features.
+* Proposing new mobile app-specific features for donut and implementing proof of concepts.
+* Having a basic knowledge of platform-specific features and their implementations. 
+* Writing tests using Jest \( for React \).
+
+
+
+### Required Skills / Knowledge
+
+* Good knowledge of React Native and React. 
+* Some experience with native Android and iOS development.
+* UI / UX experience.
+* Cloud Services like GCP/AWS/Azure.
+
+**Technologies Involved:** React Native, React, Android, iOS, NodeJs, JavaScript
+
+
+
+### Expected Outcome
+
+* A functional Android/ iOS Mobile Application for donut.
+* Consistency across the web and mobile applications. 
+* Bug fixes completion
+
+### Potential Mentors
+
+
+
 ### 
 
 
