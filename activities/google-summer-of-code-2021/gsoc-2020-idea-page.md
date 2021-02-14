@@ -85,8 +85,6 @@ After the completion of this project, Donut will be able to transit towards the 
 
 ### Potential Mentors
 
-
-
 ## **IDEA 2: Cross-Platform Hybrid Mobile Application for Donut**
 
 ### **Priority:**
@@ -118,13 +116,6 @@ Major tasks in this project are :
 * Deployment of the application
   * Writing test cases 
   * Uploading the app on Google Play Developer
-
-{% hint style="warning" %}
-**References:**
-{% endhint %}
-
-#### Steps to get started:
-
 * Gain a good understanding of React Native, React, and mobile application development.
 * Setup Donut and explore its different features, find bugs, and open issues.
 * Get involved in the community and contribute to our code, fix bugs, or propose new features.
@@ -144,8 +135,6 @@ Major tasks in this project are :
 
   \*\*\*\*
 
-**Technologies Involved:** React Native, React, Android, iOS, NodeJs, JavaScript
-
 
 
 ### Expected Outcome
@@ -155,6 +144,93 @@ Major tasks in this project are :
 * Bug fixes completion
 
 ### Potential Mentors
+
+
+
+
+
+## **IDEA 3: Development of Event Management System inside Donut**
+
+### **Priority:**
+
+High
+
+### Description:
+
+The development of an online event configuration mechanism is one of our newest additions to our feature frameworks of the Donut platform. So, the task of this major project is to develop an Event  Management System with an integration of the Jitsi Meet platform that will allow individuals or community admins to set up themselves to host online events To simplify the configuration, the event management system will be divided into three different phases which are organizer space, speaker space, and audience space with various modules which will have the most common use cases while setting up this environment. 
+
+Below is the development required within each space : 
+
+**Organizer Space:**  
+It will be a space where the organizer or admins will have control over the whole event management mechanism including the speakers, and audience.
+
+* Admins can add members to the community spaces through Invites, also can invite others as an Admin/moderator due to which all the same rights will be shared with the other person.
+* Blocking users \( Giving access to block people\).
+* Add/Remove any independent modules like chat mechanism\(which will be used for live chat\).
+* Showcase the backstage mechanism.
+* Registrations - Designing the customized event's landing page which can be used to promote away and to sell tickets, manage registrations, and monitor signups from their own event dashboard.
+* Giving Access to delete any post/comments, etc.
+* Giving them access to change modules in between any time through toggle or any other available options such as Theme change, Removing/Adding any other modules.
+* Making a feature of "Maintenance". with this no user should be able to login/signup . they should see a particular page of maintenance. These rights should be given to only admins.
+* Allowing to give them access to the "settings" of the event mechanism for a community. 
+
+**Speaker Space:**  
+It will be a space which will be used by the speakers for giving the sessions. 
+
+* They should have the mechanism to share their presentations.
+* Access to the chats and comments by the audience and organizers in a separate way.
+* Access to the Backstage settings - speakers line up, etc. 
+
+**Audience Space:**  
+It will be the general way to view the live or recorded events for the user.
+
+* It should have the access to do networking with the people through chats or comments
+* They will also have the access to see the event information, speakers line up 
+
+**Note:** We have already some of the designs made for this project which can be found on [Figma](https://www.figma.com/file/iZvb7rLYRp3Di3wILVQ7V9/CodeUino-Donut?node-id=3194%3A6085). 
+
+
+
+{% hint style="warning" %}
+**References:**
+{% endhint %}
+
+#### Steps to get started:
+
+#### Steps to get started:
+
+* Gain a good understanding of React Native, React, and mobile application development.
+* Setup Donut and explore its different features, find bugs and open issues.
+* Get involved in the community and contribute to our code, fix bugs, or propose new features.
+* Implementation of sample mobile applications implementing existing donut features.
+* Proposing new mobile app-specific features for donut and implementing proof of concepts.
+* Having a basic knowledge of platform-specific features and their implementations. 
+* Writing tests using Jest \( for React \).
+
+
+
+### Required Skills / Knowledge
+
+* Excellent knowledge of JavaScript, NodeJs and React.
+* Experience with unit testing. Experience with Jest or other testing frameworks.
+
+**Technologies Involved:** React Native, React, Android, iOS, NodeJs, JavaScript
+
+
+
+**Technologies Involved:** React Native, React, Android, iOS, NodeJs, JavaScript
+
+
+
+### Expected Outcome
+
+* This project will result in having an appropriate event management mechanism inside the donut platform which can be used by the communities to create engaging virtual events that can connect people around the globe.
+* It will also have different management spaces for the organizers, speaker, and audience
+* It will have an integration of the Jitsi platform
+
+### Potential Mentors
+
+
 
 
 
