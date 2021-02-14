@@ -17,7 +17,8 @@ All tasks on this page already indicate mentors for the task. New tasks on this 
 
 ## **Table of Contents**
 
-\*\*\*\*[**IDEA 1: Refactoring and Improving Donut Platform Interaction**](https://docs.codeuino.org/documentation/activities/google-summer-of-code-2021/gsoc-2020-idea-page#idea-1-refactoring-and-improving-donut-platform-interaction)\*\*\*\*
+* [**IDEA 1: Refactoring and Improving Donut Platform Interaction**](https://docs.codeuino.org/documentation/activities/google-summer-of-code-2021/gsoc-2020-idea-page#idea-1-refactoring-and-improving-donut-platform-interaction)\*\*\*\*
+* **IDEA 2: Cross-Platform Hybrid Mobile Application for Donut**
 
 \*\*\*\*
 
@@ -88,8 +89,6 @@ After the completion of this project, Donut will be able to transit towards the 
 
 ## **IDEA 2: Cross-Platform Hybrid Mobile Application for Donut**
 
-\*\*\*\*
-
 ### **Priority:**
 
 High
@@ -120,6 +119,10 @@ Major tasks in this project are :
   * Writing test cases 
   * Uploading the app on Google Play Developer
 
+{% hint style="warning" %}
+**References:**
+{% endhint %}
+
 #### Steps to get started:
 
 * Gain a good understanding of React Native, React, and mobile application development.
@@ -147,7 +150,7 @@ Major tasks in this project are :
 
 ### Expected Outcome
 
-* A functional Android Mobile Application for donut.
+* A functional Android Mobile Application for Donut.
 * Consistency across the web and mobile applications. 
 * Bug fixes completion
 
