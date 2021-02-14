@@ -17,7 +17,7 @@ All tasks on this page already indicate mentors for the task. New tasks on this 
 
 ## **Table of Contents**
 
-**IDEA 1: Refactoring and Improving Donut Platform Interaction**
+\*\*\*\*[**IDEA 1: Refactoring and Improving Donut Platform Interaction**](https://docs.codeuino.org/documentation/activities/google-summer-of-code-2021/gsoc-2020-idea-page#idea-1-refactoring-and-improving-donut-platform-interaction)\*\*\*\*
 
 \*\*\*\*
 
