@@ -86,10 +86,6 @@ After the completion of this project, Donut will be able to transit towards the 
 
 
 
-
-
-
-
 ## **IDEA 2: Cross-Platform Hybrid Mobile Application for Donut**
 
 \*\*\*\*
@@ -102,7 +98,7 @@ High
 
 Donut Platform is a highly flexible open**-**source Social Network Kit that aims to give you the customized social network, social intranet, or huge social enterprise application for communities that really fits their needs. Its frontend is made in React.JS and the backend is written in Node.JS. 
 
-Major tasks in the project are :
+Major tasks in this project are :
 
 * Creation of cross-platform Application.
   * Setting up of sample application
@@ -115,22 +111,19 @@ Major tasks in the project are :
   * Edit Profile: To able to edit a user’s profile contents
   * Insights Screen: Showcasing all the insights of a user which is seen from the web
   * New Posts, Projects, and Events: Screens to create new posts, projects, and events that can be posted on Donut 
+  * Implementation of the organizational screen which gives the org admins any  rights to control the platform
 * Implementation of Push Notifications
+  * Understanding how push notifications work
+  * Implementing push notifications using Firebase FCM/ Web Sockets 
 * Adding location-based services to Donut.
-* Deployment of the application.
+* Deployment of the application
+  * Writing test cases 
+  * Uploading the app on Google Play Developer
 
-
-
-
-
-
-
-
-
-#### Steps to get started:
+#### Steps to get started:
 
 * Gain a good understanding of React Native, React, and mobile application development.
-* Setup Donut and explore its different features, find bugs and open issues.
+* Setup Donut and explore its different features, find bugs, and open issues.
 * Get involved in the community and contribute to our code, fix bugs, or propose new features.
 * Implementation of sample mobile applications implementing existing donut features.
 * Proposing new mobile app-specific features for donut and implementing proof of concepts.
@@ -146,13 +139,15 @@ Major tasks in the project are :
 * UI / UX experience.
 * Cloud Services like GCP/AWS/Azure.
 
+  \*\*\*\*
+
 **Technologies Involved:** React Native, React, Android, iOS, NodeJs, JavaScript
 
 
 
 ### Expected Outcome
 
-* A functional Android/ iOS Mobile Application for donut.
+* A functional Android Mobile Application for donut.
 * Consistency across the web and mobile applications. 
 * Bug fixes completion
 
