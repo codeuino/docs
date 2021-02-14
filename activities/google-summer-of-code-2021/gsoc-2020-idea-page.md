@@ -70,11 +70,17 @@ Few major directed points that need to be accomplished are:
 * Some experience with cloud services like AWS, Azure, and GCP. Experience setting up servers \( Like Enginx, Apache \), cloud storage services are preferable.
 * Experience with Containerization\(Docker & Kubernetes\). 
 
+**Technologies Involved:** React, NodeJs, Jest, Docker, Cloud \(AWS, GCP, Azure\), Kubernetes
+
 
 
 ### Expected Outcome
 
 After the completion of this project, Donut will be able to transit towards the production phase with a new release and it will be deployed to a cloud service with fair scalability, properly handle requests from the web application and the to be developed mobile application.
+
+### Potential Mentors
+
+### 
 
 
 
