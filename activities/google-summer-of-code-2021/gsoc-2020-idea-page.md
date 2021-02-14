@@ -133,8 +133,6 @@ Major tasks in this project are :
 * UI / UX experience.
 * Cloud Services like GCP/AWS/Azure.
 
-  \*\*\*\*
-
 
 
 ### Expected Outcome
@@ -189,13 +187,7 @@ It will be the general way to view the live or recorded events for the user.
 
 **Note:** We have already some of the designs made for this project which can be found on [Figma](https://www.figma.com/file/iZvb7rLYRp3Di3wILVQ7V9/CodeUino-Donut?node-id=3194%3A6085). 
 
-
-
-{% hint style="warning" %}
-**References:**
-{% endhint %}
-
-#### Steps to get started:
+#### 
 
 #### Steps to get started:
 
@@ -216,10 +208,6 @@ It will be the general way to view the live or recorded events for the user.
 
 **Technologies Involved:** React Native, React, Android, iOS, NodeJs, JavaScript
 
-
-
-**Technologies Involved:** React Native, React, Android, iOS, NodeJs, JavaScript
-
 
 
 ### Expected Outcome
@@ -227,6 +215,58 @@ It will be the general way to view the live or recorded events for the user.
 * This project will result in having an appropriate event management mechanism inside the donut platform which can be used by the communities to create engaging virtual events that can connect people around the globe.
 * It will also have different management spaces for the organizers, speaker, and audience
 * It will have an integration of the Jitsi platform
+
+### Potential Mentors
+
+
+
+
+
+## **IDEA 4: Visualizer Representation of User Activity through Heatmap**
+
+### **Priority:**
+
+High
+
+### Description:
+
+ A heat map is a graphical representation of data where values are depicted by color. Heat maps make it easy to visualize complex data and understand it at a glance and taking this into consideration this project states to implement the GitHub-like heatmap inside the donut platform which will give better insights to the respective users about their involvement inside the donut platform.
+
+This heatmap will show up the user's following contribution through building blocks : 
+
+* The number of posts, the user has interacted with.
+* The number of Likes and comments 
+* The number of projects uploaded
+* The number of events organized/attended
+* Some other functionalities
+
+It should also include the separate contribution activity section which will consist of a detailed timeline of the user involvement inside the donut platform, including comments made, post co-authored, new ideas proposed inside proposal functionality. It is made publically where other people on the platform can see any user's contributions over time by clicking on a specific date calendar.
+
+#### Steps to get started:
+
+* Gain a good understanding of React Native, React, and mobile application development.
+* Setup Donut and explore its different features, find bugs and open issues.
+* Get involved in the community and contribute to our code, fix bugs, or propose new features.
+* Implementation of sample mobile applications implementing existing donut features.
+* Proposing new mobile app-specific features for donut and implementing proof of concepts.
+* Having a basic knowledge of platform-specific features and their implementations. 
+* Writing tests using Jest \( for React \).
+
+
+
+### Required Skills / Knowledge
+
+* Excellent knowledge of JavaScript, NodeJs and React.
+* Experience with unit testing. Experience with Jest or other testing frameworks.
+
+**Technologies Involved:** React Native, React, Android, iOS, NodeJs, JavaScript
+
+
+
+### Expected Outcome
+
+* This instance will help to give the activity overview section on anyone’s profile, also giving access to external viewers to see more information about the types of contributions/involvements the specific user has interacted with within the donut platform.
+* This feature will also allow viewers to filter the contribution graph and activity timeline for any user. 
 
 ### Potential Mentors
 
