@@ -189,11 +189,9 @@ It will be the general way to view the live or recorded events for the user.
 
 #### Steps to get started:
 
-* Gain a good understanding of React Native, React, and mobile application development.
-* Setup Donut and explore its different features, find bugs and open issues.
+* Gain a good understanding of React Native, React
+* Setup Donut and explore its different features, find bugs, and open issues.
 * Get involved in the community and contribute to our code, fix bugs, or propose new features.
-* Implementation of sample mobile applications implementing existing donut features.
-* Proposing new mobile app-specific features for donut and implementing proof of concepts.
 * Having a basic knowledge of platform-specific features and their implementations. 
 * Writing tests using Jest \( for React \).
 
@@ -204,7 +202,7 @@ It will be the general way to view the live or recorded events for the user.
 * Excellent knowledge of JavaScript, NodeJs and React.
 * Experience with unit testing. Experience with Jest or other testing frameworks.
 
-**Technologies Involved:** React Native, React, Android, iOS, NodeJs, JavaScript
+**Technologies Involved:** React Native, React, NodeJs, JavaScript
 
 
 
@@ -242,13 +240,12 @@ It should also include the separate contribution activity section which will con
 
 #### Steps to get started:
 
-* Gain a good understanding of React Native, React, and mobile application development.
-* Setup Donut and explore its different features, find bugs and open issues.
+* Gain a good understanding of React Native, React.
+* Setup Donut and explore its different features, find bugs, and open issues.
 * Get involved in the community and contribute to our code, fix bugs, or propose new features.
-* Implementation of sample mobile applications implementing existing donut features.
-* Proposing new mobile app-specific features for donut and implementing proof of concepts.
+* Understand the working of Github heatmap
+* Understand the importance and implementation of the heatmap
 * Having a basic knowledge of platform-specific features and their implementations. 
-* Writing tests using Jest \( for React \).
 
 
 
@@ -256,8 +253,9 @@ It should also include the separate contribution activity section which will con
 
 * Excellent knowledge of JavaScript, NodeJs and React.
 * Experience with unit testing. Experience with Jest or other testing frameworks.
+* Understanding of heatmap integration and development
 
-**Technologies Involved:** React Native, React, Android, iOS, NodeJs, JavaScript
+**Technologies Involved:** React Native, React, NodeJs, JavaScript
 
 
 
@@ -267,14 +265,4 @@ It should also include the separate contribution activity section which will con
 * This feature will also allow viewers to filter the contribution graph and activity timeline for any user. 
 
 ### Potential Mentors
-
-
-
-
-
-### 
-
-
-
-
 
