@@ -36,23 +36,20 @@ Few major directed points that need to be accomplished are:
 
 * Maintaining design consistency across the whole application
 * **Bug triaging** and **resolving** all pending bugs on backend and frontend repositories
+* Restructuring code-base with introducing React Hooks and API's
 * Writing unit test cases
 * Making platform responsive
 * Feature Addition: Implementation of the dark theme across the whole platform
 * Deployment of Application:
-  * Optimize build using Browserify/Webpack
   * Deployment of Docker Image to Docker Hub and AWS ECS/ other cloud providers
   * Setting up of clusters, server instances
   * Creating network load balancers
   * Adding SSL certification and handling cors.
-  * Restructuring code base
 * Monitoring Performance:
 
-  * 
-    Profiling of React App 
-
+  *  Improving front-end performance by following the LightHouse measures like optimizing build    , minifying JS bundle size, lazy-loading, semantic elements etc.
   * Use of Performance Hooks API for Node.JS
-  * Setting up Cloudwatch or similar tools on the cloud provider. 
+  * Setting up Cloudwatch or similar tools on the cloud provider
 
 
 
