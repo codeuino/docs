@@ -18,7 +18,10 @@ All tasks on this page already indicate mentors for the task. New tasks on this 
 ## **Table of Contents**
 
 * [**IDEA 1: Refactoring and Improving Donut Platform Interaction**](https://docs.codeuino.org/documentation/activities/google-summer-of-code-2021/gsoc-2020-idea-page#idea-1-refactoring-and-improving-donut-platform-interaction)\*\*\*\*
-* **IDEA 2: Cross-Platform Hybrid Mobile Application for Donut**
+* \*\*\*\*[**IDEA 2: Cross-Platform Hybrid Mobile Application for Donut**](https://docs.codeuino.org/documentation/activities/google-summer-of-code-2021/gsoc-2020-idea-page#idea-2-cross-platform-hybrid-mobile-application-for-donut)\*\*\*\*
+* \*\*\*\*[**IDEA 3: Development of Event Management System inside Donut**](https://docs.codeuino.org/documentation/activities/google-summer-of-code-2021/gsoc-2020-idea-page#idea-3-development-of-event-management-system-inside-donut)\*\*\*\*
+* \*\*\*\*[**IDEA 4: Visualizer Representation of User Activity through Heatmap**](https://docs.codeuino.org/documentation/activities/google-summer-of-code-2021/gsoc-2020-idea-page#idea-4-visualizer-representation-of-user-activity-through-heatmap)\*\*\*\*
+* **IDEA 5:**
 
 \*\*\*\*
 
