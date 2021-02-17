@@ -21,7 +21,7 @@ All tasks on this page already indicate mentors for the task. New tasks on this 
 * \*\*\*\*[**IDEA 2: Cross-Platform Hybrid Mobile Application for Donut**](https://docs.codeuino.org/documentation/activities/google-summer-of-code-2021/gsoc-2020-idea-page#idea-2-cross-platform-hybrid-mobile-application-for-donut)\*\*\*\*
 * \*\*\*\*[**IDEA 3: Development of Event Management System inside Donut**](https://docs.codeuino.org/documentation/activities/google-summer-of-code-2021/gsoc-2020-idea-page#idea-3-development-of-event-management-system-inside-donut)\*\*\*\*
 * \*\*\*\*[**IDEA 4: Visualizer Representation of User Activity through Heatmap**](https://docs.codeuino.org/documentation/activities/google-summer-of-code-2021/gsoc-2020-idea-page#idea-4-visualizer-representation-of-user-activity-through-heatmap)\*\*\*\*
-* **IDEA 5:**
+* \*\*\*\*[**IDEA 5: Implementing Microservice architecture in Donut** ](https://docs.codeuino.org/documentation/activities/google-summer-of-code-2021/gsoc-2020-idea-page#idea-5-implementing-microservice-architecture-in-donut)
 
 \*\*\*\*
 
@@ -266,6 +266,49 @@ It should also include the separate contribution activity section which will con
 
 * This instance will help to give the activity overview section on anyone’s profile, also giving access to external viewers to see more information about the types of contributions/involvements the specific user has interacted with within the donut platform.
 * This feature will also allow viewers to filter the contribution graph and activity timeline for any user. 
+
+### Potential Mentors
+
+
+
+## **IDEA 5: Implementing Microservice architecture in Donut**
+
+### **Priority:**
+
+High
+
+### Description:
+
+Donut is an open source social networking platform. Currently backend of Donut is a monolith made in NodeJs. Since donut is a social networking platform it should be able to handle a large number of requests simultaneously and scale up or down depending upon the traffic. For an application like Donut, not all services experience the same traffic so we would like to be able to scale up or down individual services loosely linked through API interfaces. Hence, we plan to shift the backend to microservice architecture. This task would require a significant portion of the backend to be re-written in typescript. Also since there are obvious performance limitations in JavaScript we would be rewriting some crucial frequently used services in GoLang. Ultimately we would expect Ansible packages to be created to automate to a fair extent the deployment of Donut with the new architecture on various cloud platforms. Also since the backend of Donut would significantly change by this task, detailed in depth documentation and a developer's guide should be written.
+
+#### Steps to get started:
+
+*  Gain good understanding of containers, container orchestration tools, micro service architecture and other related technologies.
+* Setup Donut  and explore its different features, find bugs and open issues.
+* Get involved in the community and contribute to our code, fix bugs or propose new features.
+* Implementation of a small version of Donut with microservice architecture with few core services and creation of Ansible packages to automate it's deployment.
+* Understanding the various components of Donut and coming up with an architecture for microservices.
+
+
+
+### Required Skills / Knowledge
+
+* Good knowledge of TypeScript and NodeJs.
+* Some experience with goLang.
+* Some experience developing applications with microservice architecture.
+* Fair experience with containerisation and container orchestration technologies like Docker and Kubernetes.
+* Experience work with large codebases.
+* Desire to learn about various best practices and adhere to them.
+* Ability and passion for learning new concepts and technologies quickly and apply them on real world projects.
+
+**Technologies Involved:** JavaScript, TypeScript, Microservice architecture, GoLang, Docker, Kubernetes, Helm, Prometheus, Ansible, Cloud services \(AWS, GCP, Azure\)
+
+
+
+### Expected Outcome
+
+* Completely functional bug free Donut with high availability and scalability made up of loosely coupled self contained microservices written in languages like GoLang and Typescript.
+* Easily deployable Donut on major cloud platforms and for local development. It should be able to scale up or down automatically depending upon various metrics and perform optimally while requiring least amount of user intervention. Most of the tasks automated using Ansible and scripts. 
 
 ### Potential Mentors
 
