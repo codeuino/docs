@@ -279,7 +279,7 @@ High
 
 ### Description:
 
-Donut is an open source social networking platform. Currently backend of Donut is a monolith made in NodeJs. Since donut is a social networking platform it should be able to handle a large number of requests simultaneously and scale up or down depending upon the traffic. For an application like Donut, not all services experience the same traffic so we would like to be able to scale up or down individual services loosely linked through API interfaces. Hence, we plan to shift the backend to microservice architecture. This task would require a significant portion of the backend to be re-written in typescript. Also since there are obvious performance limitations in JavaScript we would be rewriting some crucial frequently used services in GoLang. Ultimately we would expect Ansible packages to be created to automate to a fair extent the deployment of Donut with the new architecture on various cloud platforms. Also since the backend of Donut would significantly change by this task, detailed in depth documentation and a developer's guide should be written.
+Donut is an open source social networking platform. Currently backend of Donut is a monolith made in NodeJs. Since donut is a social networking platform it should be able to handle a large number of requests simultaneously and scale up or down depending upon the traffic. For an application like Donut, not all services experience the same traffic so we would like to be able to scale up or down individual services loosely linked through API interfaces. Hence, we plan to shift the backend to microservice architecture. This task would require a significant portion of the backend to be re-written in Typescript. Also since there are obvious performance limitations in JavaScript we would be rewriting some crucial frequently used services in GoLang. Ultimately we would expect Ansible packages to be created to automate to a fair extent the deployment of Donut with the new architecture on various cloud platforms. Also since the backend of Donut would significantly change by this task, detailed in depth documentation and a developer's guide should be written.
 
 #### Steps to get started:
 
@@ -294,11 +294,11 @@ Donut is an open source social networking platform. Currently backend of Donut i
 ### Required Skills / Knowledge
 
 * Good knowledge of TypeScript and NodeJs.
-* Some experience with goLang.
+* Experience with goLang.
 * Some experience developing applications with microservice architecture.
-* Fair experience with containerisation and container orchestration technologies like Docker and Kubernetes.
-* Experience work with large codebases.
-* Desire to learn about various best practices and adhere to them.
+* Fair amount of experience with containerization and container orchestration technologies like Docker and Kubernetes.
+* Experience working with large codebases.
+* Desire to learn about various open source best practices and adhere to them.
 * Ability and passion for learning new concepts and technologies quickly and apply them on real world projects.
 
 **Technologies Involved:** JavaScript, TypeScript, Microservice architecture, GoLang, Docker, Kubernetes, Helm, Prometheus, Ansible, Cloud services \(AWS, GCP, Azure\)
