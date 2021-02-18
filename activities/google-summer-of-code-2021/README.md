@@ -1,6 +1,6 @@
 # Google-Summer-Of-Code-2021
 
-## **Welcome to the Google Summer of Code 2020** <a id="welcome-to-the-google-summer-of-code-2020"></a>
+## **Welcome to the Google Summer of Code 2021** <a id="welcome-to-the-google-summer-of-code-2020"></a>
 
 ​[**Google Summer of Code**](https://summerofcode.withgoogle.com/) is a global program which encourages university students aged 18 or over to participate with open source projects during their summer vacations from schools and gain exposure to real-world software development scenarios and the opportunity for employment in areas related to their academic pursuits by drilling up their skills.
 
@@ -8,9 +8,9 @@ Google awards stipends, to all successful students who complete their free and o
 
 To learn more about this year's event and how GSoC works, please refer to the [**Frequently Asked Question \(FAQ\)**](https://developers.google.com/open-source/gsoc/faq).
 
-**We are glad to apply to Google Summer of Code 2020 as a mentoring organisation, accepted organizations will be announced on February 20. In the meanwhile feel free to move around and connect with the community.**
+**We are glad to apply to Google Summer of Code 2021 as a mentoring organisation, accepted organizations will be announced on March 9. In the meanwhile feel free to move around and connect with the community.**
 
-**We have many** [**project ideas**](https://developer.jboss.org/wiki/GSoC2019Ideas#jive_content_id_Category_Codeuino) **posted, and we welcome potential students and mentors to reach out to us for further involvement.**
+**We have many** [**project ideas**](https://docs.codeuino.org/documentation/activities/google-summer-of-code-2021/gsoc-2021-idea-page) **posted, and we welcome potential students and mentors to reach out to us for further involvement.**
 
 ## **About Codeuino** <a id="about-codeuino"></a>
 
@@ -20,21 +20,8 @@ To learn more about this year's event and how GSoC works, please refer to the [*
 
 The community is a group of young open source contributors creatively leveraging our expertise in social networking and development projects to improve the quality of outreaching, interaction and collaboration for the people in developing nations. Everyone at Codeuino contributes to increase efficiency, outreaching for the user and expedite idea generation for social networking.
 
-If you are looking for a project which incorporates structured data and social networking medias then check out our [**project ideas page**](https://developer.jboss.org/wiki/GSoC2019Ideas#jive_content_id_Category_Codeuino) we had in 2019 and contact us though any communication channel described here.
+## Selected Project Ideas for GSOC 2021 <a id="selected-project-ideas-for-gsoc-2020"></a>
 
-## Selected Project Ideas for GSOC 2020 <a id="selected-project-ideas-for-gsoc-2020"></a>
-
-## **Get in Touch with us** <a id="get-in-touch-with-us"></a>
-
-This is our first-time participation in GSOC 2020 as an **"Independent Orgnisation" but we have been a part of GSOC 2019 as a sub organisation where "JBoss Community" vouched for us.**
-
-The Organisation administrators for GSOC 2020 are [Jaskirat Singh](https://twitter.com/jaskirat626) followed by co-organisation administrator [Devesh Verma](https://twitter.com/devesh__verma)​
-
-* **Email:** [**Jaskirat SIngh**](mailto:juskirat2000@gmail.com) and [**Devesh Verma**](mailto:deveshverma619@gmail.com)​
-
-  Students and Mentors can join these discussion portals in order to carry discussions about their projects and interaction within community.
-
-* * 
 ## **Involving as a Student** <a id="involving-as-a-student"></a>
 
 ### Before Being Accepted <a id="before-being-accepted"></a>
@@ -89,8 +76,4 @@ Make sure you get through the followings:
 5. **Ensure your Student is Active.** They should have a good community involvement and good discussions. Should be answerable wherever they are tagged.
 6.  **Reach out to the Summer of Code organization administrators** if you have questions or concerns.
 7. **Do weekly meeting with students and give weekly report to Organization Admins.**
-
-​
-
-​
 
