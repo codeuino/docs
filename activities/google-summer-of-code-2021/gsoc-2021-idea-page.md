@@ -23,8 +23,6 @@ All tasks on this page already indicate mentors for the task. New tasks on this 
 * \*\*\*\*[**IDEA 4: Visualizer Representation of User Activity through Heatmap**](https://docs.codeuino.org/documentation/activities/google-summer-of-code-2021/gsoc-2020-idea-page#idea-4-visualizer-representation-of-user-activity-through-heatmap)\*\*\*\*
 * \*\*\*\*[**IDEA 5: Implementing Microservice architecture in Donut** ](https://docs.codeuino.org/documentation/activities/google-summer-of-code-2021/gsoc-2020-idea-page#idea-5-implementing-microservice-architecture-in-donut)
 
-\*\*\*\*
-
 ## **IDEA 1: Refactoring and Improving Donut Platform Interaction**
 
 ### **Priority:**
@@ -56,10 +54,6 @@ Few major directed points that need to be accomplished are:
 
 
 
-{% hint style="warning" %}
-**References:** 
-{% endhint %}
-
 #### Steps to get started:
 
 * Setup Donut and explore its different features.
@@ -68,7 +62,7 @@ Few major directed points that need to be accomplished are:
 * Propose a new feature and implement it.
 * Get involved in the community, review code, share ideas, open issues, and more.
 
-### Required Skills / Knowledge
+### Required Skills / Knowledge:
 
 * Excellent knowledge of JavaScript, NodeJs and React.
 * Experience with unit testing. Experience with Jest or other testing frameworks. 
@@ -80,11 +74,13 @@ Few major directed points that need to be accomplished are:
 
 
 
-### Expected Outcome
+### Expected Outcome:
 
 After the completion of this project, Donut will be able to transit towards the production phase with a new release and it will be deployed to a cloud service with fair scalability, properly handle requests from the web application and the to be developed mobile application.
 
-### Potential Mentors
+### Potential Mentors:
+
+Devesh Verma, Uphaar Dubhey, Shivay Lamba, and Jaskirat Singh
 
 ## **IDEA 2: Cross-Platform Hybrid Mobile Application for Donut**
 
@@ -127,7 +123,7 @@ Major tasks in this project are :
 
 
 
-### Required Skills / Knowledge
+### Required Skills / Knowledge:
 
 * Good knowledge of React Native and React. 
 * Some experience with native Android and iOS development.
@@ -136,17 +132,15 @@ Major tasks in this project are :
 
 
 
-### Expected Outcome
+### Expected Outcome:
 
 * A functional Android Mobile Application for Donut.
 * Consistency across the web and mobile applications. 
 * Bug fixes completion
 
-### Potential Mentors
+### Potential Mentors:
 
-
-
-
+Devesh Verma, and Siddharth Simharaju
 
 ## **IDEA 3: Development of Event Management System inside Donut**
 
@@ -200,7 +194,7 @@ It will be the general way to view the live or recorded events for the user.
 
 
 
-### Required Skills / Knowledge
+### Required Skills / Knowledge:
 
 * Excellent knowledge of JavaScript, NodeJs and React.
 * Experience with unit testing. Experience with Jest or other testing frameworks.
@@ -215,11 +209,9 @@ It will be the general way to view the live or recorded events for the user.
 * It will also have different management spaces for the organizers, speaker, and audience
 * It will have an integration of the Jitsi platform
 
-### Potential Mentors
+### Potential Mentors:
 
-
-
-
+Shivam Kumar, Devesh Verma, and Jaskirat Singh
 
 ## **IDEA 4: Visualizer Representation of User Activity through Heatmap**
 
@@ -252,7 +244,7 @@ It should also include the separate contribution activity section which will con
 
 
 
-### Required Skills / Knowledge
+### Required Skills / Knowledge:
 
 * Excellent knowledge of JavaScript, NodeJs and React.
 * Experience with unit testing. Experience with Jest or other testing frameworks.
@@ -262,14 +254,14 @@ It should also include the separate contribution activity section which will con
 
 
 
-### Expected Outcome
+### Expected Outcome:
 
 * This instance will help to give the activity overview section on anyone’s profile, also giving access to external viewers to see more information about the types of contributions/involvements the specific user has interacted with within the donut platform.
 * This feature will also allow viewers to filter the contribution graph and activity timeline for any user. 
 
-### Potential Mentors
+### Potential Mentors:
 
-
+Abhishek Naidu, Siddharth Simharaju, and Jaskirat Singh
 
 ## **IDEA 5: Implementing Microservice architecture in Donut**
 
@@ -279,7 +271,7 @@ High
 
 ### Description:
 
-Donut is an open source social networking platform. Currently backend of Donut is a monolith made in NodeJs. Since donut is a social networking platform it should be able to handle a large number of requests simultaneously and scale up or down depending upon the traffic. For an application like Donut, not all services experience the same traffic so we would like to be able to scale up or down individual services loosely linked through API interfaces. Hence, we plan to shift the backend to microservice architecture. This task would require a significant portion of the backend to be re-written in Typescript. Also since there are obvious performance limitations in JavaScript we would be rewriting some crucial frequently used services in GoLang. Ultimately we would expect Ansible packages to be created to automate to a fair extent the deployment of Donut with the new architecture on various cloud platforms. Also since the backend of Donut would significantly change by this task, detailed in depth documentation and a developer's guide should be written.
+Donut is an open source social networking platform. Currently, backend of Donut is a monolith made in NodeJs. Since donut is a social networking platform it should be able to handle a large number of requests simultaneously and scale up or down depending upon the traffic. For an application like Donut, not all services experience the same traffic so we would like to be able to scale up or down individual services loosely linked through API interfaces. Hence, we plan to shift the backend to microservice architecture. This task would require a significant portion of the backend to be re-written in Typescript. Also since there are obvious performance limitations in JavaScript we would be rewriting some crucial frequently used services in GoLang. Ultimately we would expect Ansible packages to be created to automate to a fair extent the deployment of Donut with the new architecture on various cloud platforms. Also since the backend of Donut would significantly change by this task, detailed in depth documentation and a developer's guide should be written.
 
 #### Steps to get started:
 
@@ -291,7 +283,7 @@ Donut is an open source social networking platform. Currently backend of Donut i
 
 
 
-### Required Skills / Knowledge
+### Required Skills / Knowledge:
 
 * Good knowledge of TypeScript and NodeJs.
 * Experience with goLang.
@@ -305,10 +297,12 @@ Donut is an open source social networking platform. Currently backend of Donut i
 
 
 
-### Expected Outcome
+### Expected Outcome:
 
 * Completely functional bug free Donut with high availability and scalability made up of loosely coupled self contained microservices written in languages like GoLang and Typescript.
 * Easily deployable Donut on major cloud platforms and for local development. It should be able to scale up or down automatically depending upon various metrics and perform optimally while requiring least amount of user intervention. Most of the tasks automated using Ansible and scripts. 
 
-### Potential Mentors
+### Potential Mentors:
+
+Shivam Kumar, Devesh Verma, Abhishek Naidu, and Shivay Lamba
 
