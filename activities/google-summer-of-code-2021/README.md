@@ -66,7 +66,10 @@ Consider proposing your own ideas that match the community project style.
 
 Make sure you get through the followings:
 
-* * * 
+* Have read [**Mentoring Guide**](https://google.github.io/gsocguides/mentor/)
+* Have read [**Mentors responsibilities**](https://developers.google.com/open-source/gsoc/help/responsibilities#mentors_responsibilities)
+* \*\*\*\*[**Assigned projects**](https://docs.codeuino.org/documentation/activities/google-summer-of-code-2021/gsoc-2021-idea-page)\*\*\*\*
+
 ### Expectations from a mentor <a id="expectations-from-a-mentor"></a>
 
 1. **Commit to spending a minimum of 4 hours each week** to be available to guide and mentor students \(not just your assigned student\).
