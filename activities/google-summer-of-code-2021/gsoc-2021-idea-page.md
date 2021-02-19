@@ -140,7 +140,7 @@ Major tasks in this project are :
 
 ### Potential Mentors:
 
-Devesh Verma, and Siddharth Simharaju
+Devesh Verma, Jaskirat Singh, and Siddharth Simharaju
 
 ## **IDEA 3: Development of Event Management System inside Donut**
 
